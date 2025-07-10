@@ -1,0 +1,859 @@
+﻿chunk_id,question,answer,context,score,reasoning
+chunk_01_objective_01,What is the objective of IFRS S2 Climate-related Disclosures?,The objective of IFRS S2 Climate-related Disclosures is to require an entity to disclose information about its climate-related risks and opportunities that is useful to primary users of general purpose financial reports in making decisions relating to providing resources to the entity.,"Objective
+The objective of IFRS S2 Climate-related Disclosures is to require an entity to
+disclose information about its climate-related risks and opportunities that is
+useful to primary users of general purpose financial reports in making
+decisions relating to providing resources to the entity.1
+Th...",1,CORRECT
+chunk_02_scope_01,어떤 기업이 이 표준에 적용되는 기후 관련 위험과 기회를 고려해야 하는가요?,"이 표준은 기업이 노출된 기후 관련 위험으로서 기후 관련 물리적 위험 및 기후 관련 전환 위험, 그리고 기업에 제공되는 기후 관련 기회에 적용됩니다.","Scope
+This Standard applies to:
+(a)
+climate-related risks to which the entity is exposed, which are:
+(i)
+climate-related physical risks; and
+(ii)
+climate-related transition risks; and
+(b)
+climate-related opportunities available to the entity.
+Climate-related risks and opportunities that could not re...",1,CORRECT
+chunk_03_governance_01,"Who is responsible for oversight of climate-related risks and opportunities within an entity, according to the document on governance?",The governance body(s) or individual(s) responsible for oversight of climate-related risks and opportunities within an entity are identified and disclosed in accordance with the document on governance.,"Governance
+The objective of climate-related financial disclosures on governance is to
+enable users of general purpose financial reports to understand the
+governance processes, controls and procedures an entity uses to monitor,
+manage and oversee climate-related risks and opportunities.
+To achieve th...",1,CORRECT
+chunk_03_governance_02,How does the body or individual determine whether appropriate skills and competencies are available or will be developed to oversee strategies designed to respond to climate-related risks and opportunities?,"The body or individual determines whether appropriate skills and competencies are available or will be developed by assessing the qualifications and expertise of the members or employees involved in overseeing strategies related to climate-related risks and opportunities. This assessment may involve reviewing resumes, conducting interviews, and identifying any gaps in knowledge or experience that need to be filled through training or hiring. Additionally, the body or individual may collaborate with external experts or consultants to ensure that they have the necessary skills to effectively respond to climate-related challenges.","(i)
+how responsibilities for climate-related risks and opportunities
+are reflected in the terms of reference, mandates, role
+descriptions and other related policies applicable to that body(s)
+or individual(s);
+(ii)
+how 
+the 
+body(s) 
+or 
+individual(s) 
+determines 
+whether
+appropriate skills and comp...",1,CORRECT
+chunk_03_governance_03,"How does management oversee climate-related risks and opportunities within the organization, and are there specific controls and procedures in place to support this oversight?","Management oversees climate-related risks and opportunities within the organization by delegating the role to a specific management-level position or committee. Oversight is exercised over this position or committee to ensure effective monitoring and management of climate-related risks and opportunities. Management also uses controls and procedures to support this oversight, which are integrated with other internal functions to ensure comprehensive risk management.","related to climate-related risks and opportunities, and monitors
+progress towards those targets (see paragraphs 33–36),
+including whether and how related performance metrics are
+included in remuneration policies (see paragraph 29(g)).
+(b)
+management’s role in the governance processes, controls and
+p...",1,CORRECT
+chunk_03_governance_04,What is the example provided in the document regarding the disclosure of sustainability-related financial information?,"The example provided in the document is that if oversight of sustainability-related risks and opportunities is managed on an integrated basis, the entity would avoid duplication by providing integrated governance disclosures instead of separate disclosures for each sustainability-related risk and opportunity.","Requirements for Disclosure of Sustainability-related Financial Information (IFRS S1)
+(see paragraph B42(b) of IFRS S1). For example, although an entity shall
+provide the information required by paragraph 6, if oversight of sustainability-
+related risks and opportunities is managed on an integrated ...",1,CORRECT
+chunk_04_strategy_01,What specific information should an entity disclose in order to enable users of general purpose financial reports to understand the effects of climate-related risks and opportunities on its business model and value chain?,"An entity should disclose information regarding the current and anticipated effects of climate-related risks and opportunities on its business model and value chain. This includes how these risks and opportunities may impact the entity's operations, supply chain, customer base, and overall value creation process. Additionally, the entity should provide details on any strategic changes or decisions made in response to these climate-related factors, as well as any climate-related transition plans in place.","Strategy
+The objective of climate-related financial disclosures on strategy is to
+enable users of general purpose financial reports to understand an entity’s
+strategy for managing climate-related risks and opportunities.
+Specifically, an entity shall disclose information to enable users of general
+p...",1,CORRECT
+chunk_04_strategy_02,What specific information should an entity disclose in order to enable users of general purpose financial reports to understand the climate-related risks and opportunities that could affect the entity's prospects?,"An entity should disclose information such as the climate-related risks and opportunities that could reasonably be expected to affect the entity's prospects, including how these risks and opportunities may impact the entity's financial position, financial performance, and cash flows over the short, medium, and long term. Additionally, the entity should disclose how these climate-related risks and opportunities have been factored into the entity's financial planning and the climate resilience of the entity's strategy and business model to climate-related changes, developments, and uncertainties.","the reporting period, and their anticipated effects on the entity’s
+financial position, financial performance and cash flows over the
+short, medium and long term, taking into consideration how those
+climate-related risks and opportunities have been factored into the
+entity’s financial planning (see ...",1,CORRECT
+chunk_04_strategy_03,"How does the entity define 'short term', 'medium term', and 'long term' in relation to climate-related risks and opportunities, and how are these definitions linked to the planning horizons used for strategic decision-making?","The entity defines 'short term' as time horizons within the next 1-3 years, 'medium term' as time horizons within the next 4-7 years, and 'long term' as time horizons beyond 7 years. These definitions are linked to the planning horizons used for strategic decision-making by aligning the timeframes for assessing climate-related risks and opportunities with the entity's long-term strategic goals and objectives. By considering the potential impacts of climate-related risks and opportunities over different time horizons, the entity can better integrate sustainability considerations into its strategic planning processes.","(b)
+explain, for each climate-related risk the entity has identified, whether
+the entity considers the risk to be a climate-related physical risk or
+climate-related transition risk;
+(c)
+specify, for each climate-related risk and opportunity the entity has
+identified, over which time horizons—short, ...",1,CORRECT
+chunk_04_strategy_04,What information should an entity disclose in order to enable users of general purpose financial reports to understand the current and anticipated effects of climate-related risks and opportunities on the entity's business model and value chain?,"An entity should disclose information that enables users of general purpose financial reports to understand the current and anticipated effects of climate-related risks and opportunities on the entity's business model and value chain. Specifically, the entity should disclose information related to its business model and value chain, including how climate-related risks and opportunities could impact these areas. This could include information on past events, current conditions, and forecasts of future conditions related to climate change, as well as any industry-based disclosure topics defined in the Industry-based Guidance on Implementing IFRS S2.","In identifying the climate-related risks and opportunities that could
+reasonably be expected to affect an entity’s prospects, the entity shall use all
+reasonable and supportable information that is available to the entity at the
+reporting date without undue cost or effort, including information abou...",1,CORRECT
+chunk_04_strategy_05,"What information should an entity disclose regarding how it has responded to climate-related risks and opportunities in its strategy and decision-making, including any targets it has set or is required to meet by law or regulation?","An entity should disclose information about how it has responded to climate-related risks and opportunities in its strategy and decision-making, including how it plans to achieve any climate-related targets it has set and any targets it is required to meet by law or regulation. This information should include details on the actions taken, the progress made towards achieving the targets, and any future plans or initiatives related to climate-related risks and opportunities.","(a)
+a description of the current and anticipated effects of climate-related
+risks and opportunities on the entity’s business model and value chain;
+and
+(b)
+a description of where in the entity’s business model and value chain
+climate-related risks and opportunities are concentrated (for example,
+geo...",1,CORRECT
+chunk_04_strategy_06,What current and anticipated changes is the entity making to its business model in order to address climate-related risks and opportunities?,"The entity is making changes to manage or decommission carbon-, energy- or water-intensive operations, allocate resources resulting from demand or supply-chain changes, allocate resources arising from business development through capital expenditure or additional expenditure on research and development, and potentially make acquisitions or divestments.","about:
+(i)
+current and anticipated changes to the entity’s business model,
+including its resource allocation, to address climate-related
+risks and opportunities (for example, these changes could
+include plans to manage or decommission carbon-, energy- or
+water-intensive operations; resource allocati...",1,CORRECT
+chunk_04_strategy_07,What specific direct mitigation and adaptation efforts is the entity currently undertaking or planning to undertake in response to climate change?,"The entity is currently undertaking or planning to undertake direct mitigation and adaptation efforts such as changes in production processes or equipment, relocation of facilities, workforce adjustments, and changes in product specifications in response to climate change.","(ii)
+current and anticipated direct mitigation and adaptation efforts
+(for example, through changes in production processes or
+equipment, relocation of facilities, workforce adjustments, and
+changes in product specifications);
+(iii)
+current and anticipated indirect mitigation and adaptation
+efforts ...",1,CORRECT
+chunk_04_strategy_08,"What information should an entity disclose in accordance with paragraph 14(a) regarding the effects of climate-related risks and opportunities on its financial position, financial performance, and cash flows for the reporting period?","An entity should disclose information about how climate-related risks and opportunities have affected its financial position, financial performance, and cash flows for the reporting period in accordance with paragraph 14(a). This includes disclosing the current financial effects of climate-related risks and opportunities on the entity's financial position, financial performance, and cash flows.","periods 
+in 
+accordance 
+with
+paragraph 14(a).
+Financial position, financial performance and cash flows
+An entity shall disclose information that enables users of general purpose
+financial reports to understand:
+(a)
+the effects of climate-related risks and opportunities on the entity’s
+financial pos...",1,CORRECT
+chunk_04_strategy_09,What climate-related risks and opportunities are identified in paragraph 16(a) that pose a significant risk of material adjustment to the carrying amounts of assets and liabilities in the next annual reporting period?,"Paragraph 16(a) of the document identifies climate-related risks and opportunities that pose a significant risk of material adjustment to the carrying amounts of assets and liabilities in the next annual reporting period. However, the specific details of these risks and opportunities are not provided in the document, so I am unable to provide a specific answer to your question.","climate-related 
+risks 
+and 
+opportunities 
+identified 
+in
+paragraph 16(a) for which there is a significant risk of a material
+adjustment within the next annual reporting period to the carrying
+amounts of assets and liabilities reported in the related financial
+statements;
+15
+16
+IFRS SUSTAINABILITY ...",1,CORRECT
+chunk_04_strategy_10,"How does the entity plan to manage climate-related risks and opportunities in terms of its financial position and performance over the short, medium, and long term?","The entity plans to manage climate-related risks and opportunities by considering its investment and disposal plans, such as capital expenditure, major acquisitions, divestments, joint ventures, business transformation, innovation, new business areas, and asset retirements. It also plans to assess its planned sources of funding to implement its strategy. In terms of financial performance and cash flows, the entity expects changes over the short, medium, and long term by considering factors such as increased revenue from products and services aligned with a lower-carbon economy, costs arising from physical damage to assets from climate events, and expenses associated with climate adaptation or mitigation.","(c)
+how the entity expects its financial position to change over the short,
+medium and long term, given its strategy to manage climate-related
+risks and opportunities, taking into consideration:
+(i)
+its investment and disposal plans (for example, plans for capital
+expenditure, 
+major 
+acquisitions 
+...",1,CORRECT
+chunk_04_strategy_11,What factors should an entity consider when preparing disclosures about the anticipated financial effects of a climate-related risk or opportunity?,"An entity should consider using all reasonable and supportable information available at the reporting date without undue cost or effort. They should also use an approach that is commensurate with the skills, capabilities, and resources available to the entity for preparing those disclosures. Additionally, the entity should consider whether the effects of the climate-related risk or opportunity are separately identifiable and if the level of measurement uncertainty involved in estimating those effects is high enough that quantitative information would not be useful.","In providing quantitative information, an entity may disclose a single amount
+or a range.
+In preparing disclosures about the anticipated financial effects of a climate-
+related risk or opportunity, an entity shall:
+(a)
+use all reasonable and supportable information that is available to the
+entity at...",1,CORRECT
+chunk_04_strategy_12,Why is it important for entities to provide quantitative information about the financial effects of climate-related risks or opportunities?,"기업이 기후 관련 위험 또는 기회의 재정적 영향에 대한 양적 정보를 제공하는 것이 중요한 이유는 투자자, 규제기관 및 이해관계자들이 기업의 재정 건강 상태 및 재무 성과에 대한 투명성을 확보하기 위해서입니다. 양적 정보를 제공함으로써, 기업은 기후 변화로 인한 위험과 기회에 대한 실질적인 이해를 제공하고, 이를 통해 투자 결정이나 기업의 재무 전략에 영향을 미칠 수 있는 정보를 제공할 수 있습니다. 따라서, 기업이 양적 정보를 제공함으로써 투명성을 높이고 이해관계자들에게 신뢰를 줄 수 있습니다.","anticipated financial effects of a climate-related risk or opportunity if the
+entity does not have the skills, capabilities or resources to provide that
+quantitative information.
+If an entity determines that it need not provide quantitative information
+about the current or anticipated financial effe...",1,CORRECT
+chunk_04_strategy_13,"What information should an entity provide in order to enable users of general purpose financial reports to understand the resilience of the entity's strategy and business model to climate-related changes, developments, and uncertainties?","An entity should provide information that enables users of general purpose financial reports to understand the resilience of the entity's strategy and business model to climate-related changes, developments, and uncertainties. This includes disclosing qualitative information about the financial effects of climate-related risks and opportunities, identifying line items, totals, and subtotals within the financial statements that are likely to be affected. Additionally, the entity should provide quantitative information about the combined financial effects of climate-related risks and opportunities with other factors, unless it determines that quantitative information about the combined financial effects would not be useful. The entity should also use climate-related scenario analysis to assess its resilience to climate-related changes.","(b)
+provide qualitative information about those financial effects, including
+identifying line items, totals and subtotals within the related financial
+statements that are likely to be affected, or have been affected, by that
+climate-related risk or opportunity; and
+(c)
+provide quantitative informati...",1,CORRECT
+chunk_04_strategy_14,What specific information must an entity disclose regarding its assessment of climate resilience in its financial reports?,"An entity must disclose its assessment of its climate resilience as at the reporting date, including:
+- The implications of the assessment for its strategy and business model, and how the entity would need to respond to the effects identified in the climate-related scenario analysis
+- The significant areas of uncertainty considered in the entity's assessment of its climate resilience
+- The entity's capacity to adjust or adapt its strategy and business model to climate change over the short, medium, and long term, including the availability of, and flexibility in, the entity's existing financial resources to respond to the effects identified in the climate-related scenario analysis.","its climate resilience using an approach that is commensurate with the
+entity’s circumstances (see paragraphs B1–B18). In providing quantitative
+information, the entity may disclose a single amount or a range. Specifically,
+the entity shall disclose:
+(a)
+the entity’s assessment of its climate resili...",1,CORRECT
+chunk_04_strategy_15,"How does the entity assess its ability to redeploy, repurpose, upgrade or decommission existing assets in relation to climate-related risks and opportunities?","The entity assesses its ability to redeploy, repurpose, upgrade or decommission existing assets in relation to climate-related risks and opportunities by conducting climate-related scenario analysis. This analysis helps the entity understand the potential impacts of climate change on its assets and operations, and identify ways to mitigate risks and take advantage of opportunities. The entity considers factors such as changing weather patterns, regulatory changes, and market trends in assessing its ability to adapt its existing assets to climate-related challenges.","the climate-related scenario analysis, including to
+address climate-related risks and to take advantage of
+climate-related opportunities;
+(2)
+the entity’s ability to redeploy, repurpose, upgrade or
+decommission existing assets; and
+(3)
+the effect of the entity’s current and planned
+investments in cl...",1,CORRECT
+chunk_04_strategy_16,What sources did the entity use for the climate-related scenarios in their analysis?,"The entity used a diverse range of climate-related scenarios for the analysis, sourced from various reputable sources. Some of the sources included in the analysis were the latest international agreement on climate change, climate-related transition risks, and climate-related physical risks.","(i)
+information about the inputs the entity used, including:
+(1)
+which climate-related scenarios the entity used for the
+analysis and the sources of those scenarios;
+(2)
+whether the analysis included a diverse range of
+climate-related scenarios;
+(3)
+whether the climate-related scenarios used for the...",1,CORRECT
+chunk_04_strategy_17,What factors should an entity consider when making assumptions about climate-related policies in the jurisdictions in which it operates?,"An entity should consider factors such as current climate-related policies in the jurisdictions where it operates, potential future changes in these policies, regulatory trends, government initiatives, and any other relevant factors that may impact climate-related policies in those jurisdictions. It should also consider how these policies may affect its operations, risks, opportunities, and financial performance.","assumptions about:
+(1)
+climate-related policies in the jurisdictions in which the
+entity operates;
+(2)
+macroeconomic trends;
+(3)
+national- or regional-level variables (for example, local
+weather 
+patterns, 
+demographics, 
+land 
+use,
+infrastructure and availability of natural resources);
+(4)
+energy u...",1,CORRECT
+chunk_05_risk_01,How does the entity use climate-related scenario analysis to inform its identification of climate-related risks?,"The entity uses climate-related scenario analysis to inform its identification of climate-related risks by considering different potential future climate scenarios and assessing how each scenario could impact the entity's operations, financial performance, and overall risk profile. This analysis helps the entity understand the range of possible outcomes and develop strategies to manage and mitigate climate-related risks.","Risk management
+The objective of climate-related financial disclosures on risk management
+is to enable users of general purpose financial reports to understand an
+entity’s processes to identify, assess, prioritise and monitor climate-related
+risks and opportunities, including whether and how those p...",1,CORRECT
+chunk_05_risk_02,How does the entity prioritize climate-related risks relative to other types of risk?,"The entity prioritizes climate-related risks relative to other types of risk by considering factors such as qualitative factors, quantitative thresholds, and other criteria. This prioritization may involve assessing the potential impact of climate-related risks on the entity's operations, financial performance, and reputation. The entity may also use climate-related scenario analysis to inform its prioritization of risks. Additionally, the entity may compare climate-related risks with other types of risk to determine the level of attention and resources allocated to managing these risks.","the effects of those risks (for example, whether the entity
+considers qualitative factors, quantitative thresholds or other
+criteria);
+(iv)
+whether and how the entity prioritises climate-related risks
+relative to other types of risk;
+(v)
+how the entity monitors climate-related risks; and
+(vi)
+whethe...",1,CORRECT
+chunk_05_risk_03,What standard should entities follow in order to avoid unnecessary duplication in their sustainability-related risk and opportunity disclosures?,"Entities should follow IFRS S1 standard in order to avoid unnecessary duplication in their sustainability-related risk and opportunity disclosures. Specifically, they should refer to paragraph B42(b) of IFRS S1 for guidance on avoiding duplication in their disclosures.","shall avoid unnecessary duplication in accordance with IFRS S1 (see
+paragraph B42(b) of IFRS S1). For example, although an entity shall provide
+the information required by paragraph 25, if oversight of sustainability-
+related risks and opportunities is managed on an integrated basis, the entity
+woul...",1,CORRECT
+chunk_06_metrics_01,What is the objective of climate-related financial disclosures on metrics and targets according to the document?,"The objective of climate-related financial disclosures on metrics and targets is to enable users of general purpose financial reports to understand an entity’s performance in relation to its climate-related risks and opportunities, including progress towards any climate-related targets it has set, and any targets it is required to meet by law or regulation.","Metrics and targets
+The objective of climate-related financial disclosures on metrics and targets
+is to enable users of general purpose financial reports to understand an
+entity’s performance in relation to its climate-related risks and
+opportunities, including progress towards any climate-related t...",1,CORRECT
+chunk_06_metrics_02,What categories of greenhouse gas emissions should an entity disclose information on according to the document?,"An entity should disclose information on the categories of Scope 1, Scope 2, and Scope 3 greenhouse gas emissions according to the document.","these targets (see paragraphs 33–37).
+Climate-related metrics
+An entity shall disclose information relevant to the cross-industry metric
+categories of:
+(a)
+greenhouse gases—the entity shall:
+(i)
+disclose its absolute gross greenhouse gas emissions generated
+during the reporting period, expressed as ...",1,CORRECT
+chunk_06_metrics_03,"What factors influenced the entity's decision on the measurement approach, inputs, and assumptions used to measure its greenhouse gas emissions?","The factors that influenced the entity's decision on the measurement approach, inputs, and assumptions used to measure its greenhouse gas emissions are not specified in the document provided. Therefore, I cannot provide an accurate answer to this question.","entity uses to measure its greenhouse gas emissions;
+(2)
+the reason why the entity has chosen the measurement
+approach, inputs and assumptions it uses to measure its
+greenhouse gas emissions; and
+27
+28
+29
+IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023
+14
+© IFRS Foundation...",1,CORRECT
+chunk_06_metrics_04,"What changes did the entity make to its measurement approach, inputs, and assumptions during the reporting period, and what were the reasons for those changes?","During the reporting period, the entity made changes to its measurement approach, inputs, and assumptions in order to provide more accurate and transparent information regarding its greenhouse gas emissions. The reasons for these changes were to align with industry best practices, improve data accuracy, and enhance stakeholder understanding of the entity's environmental impact.","(3)
+any changes the entity made to the measurement
+approach, inputs and assumptions during the reporting
+period and the reasons for those changes;
+(iv)
+for Scope 1 and Scope 2 greenhouse gas emissions disclosed in
+accordance 
+with 
+paragraph 
+29(a)(i)(1)–(2), 
+disaggregate
+emissions between:
+(1)
+the...",1,CORRECT
+chunk_06_metrics_05,"What additional information should be disclosed regarding Category 15 greenhouse gas emissions or those associated with investments for entities engaged in asset management, commercial banking, or insurance activities?","Entities engaged in asset management, commercial banking, or insurance activities should disclose additional information about their Category 15 greenhouse gas emissions or those associated with investments. This includes disclosing the amount and percentage of assets or business activities that are vulnerable to climate-related transition risks, as well as the amount and percentage of assets or business activities that are vulnerable to climate-related physical risks. This information should be disclosed in accordance with the guidelines outlined in paragraphs B58-B63 of the document.","(see paragraphs B30–B31); and
+(vi)
+for Scope 3 greenhouse gas emissions disclosed in accordance
+with paragraph 29(a)(i)(3), and with reference to paragraphs
+B32–B57, disclose:
+(1)
+the categories included within the entity’s measure of
+Scope 3 greenhouse gas emissions, in accordance with
+the Scope 3 ...",1,CORRECT
+chunk_06_metrics_06,내부 탄소 가격에 대한 정보를 공개해야 하는 기준은 무엇인가요?,내부 탄소 가격에 대한 정보를 공개해야 하는 기준은 (f)에 명시되어 있습니다. 해당 기준에 따라 기업은 내부 탄소 가격에 대한 정보를 공개해야 합니다.,"(d)
+climate-related opportunities—the amount and percentage of assets or
+business activities aligned with climate-related opportunities;
+(e)
+capital deployment—the amount of capital expenditure, financing or
+investment deployed towards climate-related risks and opportunities;
+(f)
+internal carbon pri...",1,CORRECT
+chunk_06_metrics_07,How does the entity factor in climate-related considerations into executive remuneration?,"The entity factors in climate-related considerations into executive remuneration by disclosing a description of whether and how these considerations are factored into executive remuneration. Additionally, the entity discloses the percentage of executive management remuneration recognized in the current period that is linked to climate-related considerations. This information is provided in accordance with the requirements outlined in paragraph 29(g) of the document.","(i)
+an explanation of whether and how the entity is applying a
+carbon price in decision-making (for example, investment
+decisions, transfer pricing and scenario analysis); and
+(ii)
+the price for each metric tonne of greenhouse gas emissions the
+entity uses to assess the costs of its greenhouse gas e...",1,CORRECT
+chunk_06_metrics_08,"What specific information should an entity disclose regarding its climate-related targets, according to the document?","An entity should disclose the quantitative and qualitative climate-related targets it has set to monitor progress towards achieving its strategic goals, as well as any targets it is required to meet by law or regulation, including greenhouse gas emissions targets. For each target, the entity should disclose the metric used to set the target, the objective of the target (such as mitigation, adaptation, or conformance with science-based initiatives), and any other relevant information specified in the document.","An entity shall disclose industry-based metrics that are associated with one or
+more particular business models, activities or other common features that
+characterise participation in an industry. In determining the industry-based
+metrics that the entity discloses, the entity shall refer to and cons...",1,CORRECT
+chunk_06_metrics_09,What factors should be considered when determining the part of the entity to which the target applies in climate-related disclosures?,"When determining the part of the entity to which the target applies in climate-related disclosures, factors to consider include whether the target applies to the entity in its entirety or only a specific part of the entity, such as a particular business unit or geographical region. This information should be clearly specified in the disclosure to provide transparency and accuracy in reporting.","(c)
+the part of the entity to which the target applies (for example, whether
+the target applies to the entity in its entirety or only a part of the
+entity, such as a specific business unit or specific geographical region);
+(d)
+the period over which the target applies;
+(e)
+the base period from which ...",1,CORRECT
+chunk_06_metrics_10,What processes does the entity have in place for reviewing and validating their climate-related targets?,"The entity has processes in place for reviewing and validating their climate-related targets, including validation by a third party, reviewing the target methodology, monitoring progress using specific metrics, and making revisions to the target as needed with an explanation for those revisions.","(h)
+how the latest international agreement on climate change, including
+jurisdictional commitments that arise from that agreement, has
+informed the target.
+An entity shall disclose information about its approach to setting and
+reviewing each target, and how it monitors progress against each target,
+...",1,CORRECT
+chunk_06_metrics_11,"What factors should be considered when determining whether a target covers Scope 1, Scope 2, or Scope 3 greenhouse gas emissions?","Determining whether a target covers Scope 1, Scope 2, or Scope 3 greenhouse gas emissions should consider factors such as the direct emissions from owned or controlled sources (Scope 1), indirect emissions from the generation of purchased electricity, heat, or steam (Scope 2), and other indirect emissions such as those from the supply chain or business travel (Scope 3). It is important to assess the full extent of the entity's emissions to ensure comprehensive coverage in setting greenhouse gas emissions targets.","(b)
+whether Scope 1, Scope 2 or Scope 3 greenhouse gas emissions are
+covered by the target.
+(c)
+whether the target is a gross greenhouse gas emissions target or net
+greenhouse gas emissions target. If the entity discloses a net
+greenhouse gas emissions target, the entity is also required to
+separate...",1,CORRECT
+chunk_06_metrics_12,"What factors determine the type of carbon credit, including whether it is nature-based or based on technological carbon removals, and whether it is achieved through carbon reduction or removal?","The factors that determine the type of carbon credit include whether the underlying offset will be nature-based or based on technological carbon removals, and whether the underlying offset is achieved through carbon reduction or removal.","credits;
+(iii)
+the type of carbon credit, including whether the underlying
+offset will be nature-based or based on technological carbon
+removals, and whether the underlying offset is achieved
+through carbon reduction or removal; and
+34
+35
+36
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation...",1,CORRECT
+chunk_06_metrics_13,What factors are necessary for users of general purpose financial reports to understand the credibility and integrity of the carbon credits the entity plans to use?,Users of general purpose financial reports need to understand any factors related to the credibility and integrity of the carbon credits that the entity plans to use. This may include factors such as assumptions regarding the permanence of the carbon offset. It is important for the entity to disclose these factors in order for users to have a clear understanding of the reliability of the carbon credits being utilized.,"(iv)
+any other factors necessary for users of general purpose
+financial reports to understand the credibility and integrity of
+the carbon credits the entity plans to use (for example,
+assumptions regarding the permanence of the carbon offset).
+In identifying and disclosing the metrics used to set an...",1,CORRECT
+chunk_07_appendix_a_01,What is the definition of climate resilience according to Appendix A of IFRS S2?,"The definition of climate resilience according to Appendix A of IFRS S2 is the capacity of an entity to adjust to climate-related changes, developments or uncertainties. Climate resilience involves the capacity to manage climate-related risks and benefit from climate-related opportunities, including the ability to respond and adapt to climate-related transition risks and climate-related physical risks. An entity’s climate resilience includes both its strategic resilience and its operational resilience to climate-related changes, developments and uncertainties.","Appendix A
+Defined terms
+This appendix is an integral part of IFRS S2 and has the same authority as the other parts of the
+Standard.
+carbon credit
+An emissions unit that is issued by a carbon crediting
+programme and represents an emission reduction or removal of
+greenhouse gases. Carbon credits are ...",1,CORRECT
+chunk_07_appendix_a_02,What are some examples of acute physical risks related to climate change mentioned in the document?,"Some examples of acute physical risks related to climate change mentioned in the document include storms, floods, drought, and heatwaves.","(acute physical risk) or from longer-term shifts in climatic
+patterns (chronic physical risk). Acute physical risks arise from
+weather-related events such as storms, floods, drought or
+heatwaves, which are increasing in severity and frequency.
+Chronic physical risks arise from longer-term shifts in ...",1,CORRECT
+chunk_07_appendix_a_03,What are climate-related risks and opportunities for an entity according to the document?,"Climate-related risks refer to the potential negative effects of climate change on an entity, categorized as climate-related physical risks and climate-related transition risks. Climate-related opportunities refer to the potential positive effects arising from climate change for an entity, which can be produced through efforts to mitigate and adapt to climate change.","and opportunities
+Climate-related risks refers to the potential negative effects of
+climate change on an entity. These risks are categorised as
+climate-related physical risks and climate-related transition
+risks.
+Climate-related opportunities refers to the potential positive
+effects arising from cli...",1,CORRECT
+chunk_07_appendix_a_04,What are some examples of transition risks related to efforts to transition to a lower-carbon economy?,"Some examples of transition risks related to efforts to transition to a lower-carbon economy include policy risks, legal risks, technological risks, market risks, and reputational risks. These risks could result in increased operating costs, asset impairment due to new or amended climate-related regulations, shifting consumer demands, and the development and deployment of new technology.","climate-related
+transition risks
+Risks that arise from efforts to transition to a lower-carbon
+economy. Transition risks include policy, legal, technological,
+market and reputational risks. These risks could carry financial
+implications for an entity, such as increased operating costs or
+asset impai...",1,CORRECT
+chunk_07_appendix_a_05,What are the seven greenhouse gases listed in the Kyoto Protocol?,"The seven greenhouse gases listed in the Kyoto Protocol are carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), nitrogen trifluoride (NF3), perfluorocarbons (PFCs), and sulphur hexafluoride (SF6).","an entity to the investee or counterparty. These emissions are
+part of Scope 3 Category 15 (investments) as defined in the
+Greenhouse Gas Protocol Corporate Value Chain (Scope 3)
+Accounting and Reporting Standard (2011).
+global warming
+potential
+A factor describing the radiative forcing impact (degr...",1,CORRECT
+chunk_07_appendix_a_06,What are the two types of internal carbon prices commonly used by entities?,The two types of internal carbon prices commonly used by entities are shadow price and explicit price.,"and of potential technological progress and future emissions-
+abatement costs. An entity can use internal carbon prices for a
+range of business applications. Two types of internal carbon
+prices that an entity commonly uses are:
+(a)
+a shadow price, which is a theoretical cost or notional
+amount that ...",1,CORRECT
+chunk_07_appendix_a_07,What are Scope 1 greenhouse gas emissions and how are they defined?,"Scope 1 greenhouse gas emissions are direct greenhouse gas emissions that occur from sources that are owned or controlled by an entity. This includes emissions from sources such as fuel combustion in boilers, furnaces, vehicles, and other equipment owned or operated by the entity. These emissions are typically reported as part of a company's carbon footprint and are considered to be within the entity's operational control.","(b)
+an internal tax or fee, which is a carbon price charged to
+a business activity, product line, or other business unit
+based on its greenhouse gas emissions (these internal
+taxes or fees are similar to intracompany transfer
+pricing).
+latest international
+agreement on climate
+change
+An agreement by...",1,CORRECT
+chunk_07_appendix_a_08,What are the 15 categories in which Scope 3 greenhouse gas emissions are categorized according to the Greenhouse Gas Protocol Corporate Value Chain Accounting and Reporting Standard (2011)?,"The 15 categories in which Scope 3 greenhouse gas emissions are categorized according to the Greenhouse Gas Protocol Corporate Value Chain Accounting and Reporting Standard (2011) are:
+
+1) Purchased goods and services
+2) Capital goods
+3) Fuel- and energy-related activities not included in Scope 1 or Scope 2 emissions
+4) Upstream transportation and distribution
+5) Waste generated in operations
+6) Business travel
+7) Employee commuting
+8) Upstream leased assets
+9) Downstream transportation and distribution
+10) Processing of sold products
+11) Use of sold products
+12) End-of-life treatment of sold products
+13) Downstream leased assets
+14) Franchises
+15) Investments","facility where electricity is generated.
+Scope 3 greenhouse
+gas emissions
+Indirect greenhouse gas emissions (not included in Scope 2
+greenhouse gas emissions) that occur in the value chain of an
+entity, including both upstream and downstream emissions.
+Scope 3 greenhouse gas emissions include the Sc...",1,CORRECT
+chunk_07_appendix_a_09,어떤 단계에서 제품이 판매되고 가공되는지 설명해주세요.,"제품이 판매되는 단계는 downstream transportation and distribution 단계이며, 제품이 가공되는 단계는 processing of sold products 단계입니다.","(9)
+downstream transportation and distribution;
+(10)
+processing of sold products;
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+21...",1,CORRECT
+chunk_07_appendix_a_10,What is the definition of a business model according to the document?,"An entity's system of transforming inputs through its activities into outputs and outcomes that aims to fulfill the entity's strategic purposes and create value for the entity, generating cash flows over the short, medium, and long term.","(11)
+use of sold products;
+(12)
+end-of-life treatment of sold products;
+(13)
+downstream leased assets;
+(14)
+franchises; and
+(15)
+investments.
+Terms defined in other Standards and used in this Standard with
+the same meaning
+business model
+An entity’s system of transforming inputs through its activiti...",1,CORRECT
+chunk_07_appendix_a_11,Who are the primary users of general purpose financial reports according to the document?,"Existing and potential investors, lenders, and other creditors are the primary users of general purpose financial reports according to the document.","(a)
+buying, selling or holding equity and debt instruments;
+(b)
+providing or selling loans and other forms of credit; or
+(c)
+exercising rights to vote on, or otherwise influence, the
+entity’s management’s actions that affect the use of the
+entity’s economic resources.
+General purpose financial repor...",1,CORRECT
+chunk_07_appendix_a_12,What aspects of a company's operations does the IFRS S2 Climate-Related Disclosures cover?,"IFRS S2 Climate-Related Disclosures cover aspects of a company's operations from conception to delivery, consumption, and end-of-life, including interactions, resources.","products or services from conception to delivery, consumption
+and 
+end-of-life, 
+including 
+interactions, 
+resources 
+and
+IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023
+22
+© IFRS Foundation...",1,CORRECT
+chunk_07_appendix_a_13,What are some examples of relationships that can impact an entity's operations according to the IFRS sustainability disclosure standards?,"Some examples of relationships that can impact an entity's operations according to the IFRS sustainability disclosure standards include relationships in human resources, supply chain, marketing and distribution channels, financing, geographical, geopolitical, and regulatory environments.","relationships in the entity’s operations, such as human
+resources; those along its supply, marketing and distribution
+channels, such as materials and service sourcing, and product
+and service sale and delivery; and the financing, geographical,
+geopolitical and regulatory environments in which the en...",1,CORRECT
+chunk_08_appendix_b_01,"What factors should an entity consider when assessing its circumstances in relation to climate resilience, according to the guidance provided in Appendix B of IFRS S2?","According to the guidance provided in Appendix B of IFRS S2, an entity should consider factors such as its geographical location, the nature of its operations, its exposure to climate-related risks, the availability of relevant data and information, the potential impact of climate change on its business activities, and any relevant regulatory requirements when assessing its circumstances in relation to climate resilience. (paragraphs B2-B7)","Appendix B
+Application guidance
+This appendix is an integral part of IFRS S2 and has the same authority as the other parts of the
+Standard.
+Climate resilience (paragraph 22)
+Paragraph 22 requires an entity to use climate-related scenario analysis to
+assess its climate resilience, using an approach t...",1,CORRECT
+chunk_08_appendix_b_02,"What additional factors should an entity consider when determining its approach to climate-related scenario analysis over time, according to paragraphs B16-B18 of the document?","According to paragraphs B16-B18 of the document, the entity should consider additional factors such as changes in the entity's exposure to climate-related risks and opportunities, as well as any changes in the skills, capabilities, and resources available for the climate-related scenario analysis. These factors should be taken into account when determining the approach to climate-related scenario analysis over time.","analysis; and
+(c)
+paragraphs B16–B18 set out additional factors for the entity to
+consider when determining its approach to climate-related scenario
+analysis over time.
+Assessing the circumstances
+An entity shall use an approach to climate-related scenario analysis that is
+commensurate with its circ...",1,CORRECT
+chunk_08_appendix_b_03,What documents does the application guidance draw on for the range of practice outlined in the Task Force on Climate-related Financial Disclosures?,"The application guidance draws on documents published by the Task Force on Climate-related Financial Disclosures (TCFD), including Technical Supplement: The Use of Scenario Analysis in Disclosure of Climate-related Risks and Opportunities (2017) and Guidance on Scenario Analysis for Non-Financial Companies (2020).","cycle (see paragraph B18) would be required to reconsider for this purpose its
+exposure to climate-related risks and opportunities and the skills, capabilities
+and resources available at that time.
+B1
+B2
+B3
+2
+This application guidance (paragraphs B1–B18) draws on the range of practice outlined in
+do...",1,CORRECT
+chunk_08_appendix_b_04,What factors should an entity consider when determining the approach to use for its climate-related scenario analysis?,"An entity should consider its exposure to climate-related risks and opportunities when determining the approach to use for its climate-related scenario analysis. Factors to consider include the degree of exposure to climate-related risks, the severity of those risks, and the potential benefits of using a particular approach. Entities with high exposure to climate-related risks may benefit more from a quantitative or technically sophisticated approach, while entities with lower exposure may not see as much benefit from such approaches. Ultimately, the entity should choose an approach that aligns with its specific circumstances and provides the most valuable insights for both the entity and users of general purpose financial reports.","Exposure to climate-related risks and opportunities
+An entity shall consider its exposure to climate-related risks and opportunities
+in its assessment of its circumstances and when determining the approach to
+use for its climate-related scenario analysis. This consideration provides
+essential contex...",1,CORRECT
+chunk_08_appendix_b_05,What factors should an entity consider when determining if a more technically sophisticated form of climate-related scenario analysis is required?,"An entity should consider the level of exposure to climate-related risks or opportunities, the available skills, capabilities, and resources, and the process used to identify, assess, prioritize, and monitor those risks and opportunities. Additionally, the entity should consider the complexity of the climate-related scenarios and the potential impact on the entity's operations and financial performance.","greater the entity’s exposure to climate-related risks or opportunities, the
+more likely it is the entity would determine that a more technically
+sophisticated form of climate-related scenario analysis is required.
+This Standard requires an entity to identify the climate-related risks and
+opportunit...",1,CORRECT
+chunk_08_appendix_b_06,What factors should an entity consider when determining the potential cost and level of effort required for climate-related scenario analysis?,"An entity should consider its available skills, capabilities, and resources when determining the potential cost and level of effort required for climate-related scenario analysis. This includes assessing whether the entity has the necessary expertise and tools to conduct a quantitative or technically sophisticated analysis, as well as evaluating the resources available to invest in obtaining or developing the required skills and capabilities. Additionally, the entity should recognize that climate-related scenario analysis can be resource intensive and may need to be developed and refined over multiple planning cycles through an iterative learning process.","and external skills, capabilities and resources. The entity’s available skills,
+capabilities and resources provide context to inform its consideration of the
+potential cost and level of effort required by a particular approach to climate-
+related scenario analysis. For example, if an entity has only...",1,CORRECT
+chunk_08_appendix_b_07,What factors might influence the amount of time needed for an entity to develop skills and capabilities for climate-related scenario analysis?,"Factors that might influence the amount of time needed for an entity to develop skills and capabilities for climate-related scenario analysis include the entity's previous experience with climate-related scenario analysis, the industry in which the entity operates (whether climate-related scenario analysis is commonly used), and the overall readiness of the entity to adopt new practices and technologies related to climate change. Additionally, the availability of resources, expertise, and support within the organization can also impact the time needed for skill development in this area.","likely to develop skills and capabilities that will enable the entity to
+strengthen its approach to climate-related scenario analysis over time. For
+example, if an entity has not yet used climate-related scenario analysis or
+participates in an industry where climate-related scenario analysis is not
+...",1,CORRECT
+chunk_08_appendix_b_08,What factors should an entity consider when determining an approach to climate-related scenario analysis?,"An entity should consider its exposure to climate-related risks and opportunities, as well as its available skills, capabilities, and resources when determining an approach to climate-related scenario analysis. This involves selecting inputs to the analysis and making analytical choices about how to carry out the analysis. The entity should consider all reasonable and supportable information available to it at the reporting date without undue cost or effort.","processing—would be expected to have strengthened its skills and capabilities
+through its experience.
+Determining the appropriate approach
+An entity shall determine an approach to climate-related scenario analysis
+that enables it to consider all reasonable and supportable information that is
+availab...",1,CORRECT
+chunk_08_appendix_b_09,What factors should an entity consider when selecting inputs for its climate-related scenario analysis?,"An entity should consider all reasonable and supportable information, including scenarios, variables, and other inputs that are available to the entity at the reporting date. The entity should use judgement to determine the mix of inputs and analytical choices that will enable it to consider all reasonable and supportable information without undue cost or effort. The degree of judgement required depends on the availability of detailed information, with the degree of judgement increasing as the time horizon increases and the availability of detailed information decreases.","events, current conditions and forecasts of future conditions. It also includes
+quantitative or qualitative information, and information that is obtained from
+an external source or owned or developed internally.
+An entity will need to use judgement to determine the mix of inputs and
+analytical choic...",1,CORRECT
+chunk_08_appendix_b_10,What are some examples of inputs that can be used in climate-related scenario analysis according to the document?,"Some examples of inputs that can be used in climate-related scenario analysis according to the document include qualitative or quantitative information obtained from external sources or developed internally, publicly available climate-related scenarios from authoritative sources that describe future trends and a range of pathways to plausible outcomes, and variables and other inputs from international and regional scenarios that are publicly and freely available.","the reporting date without undue cost or effort. The inputs used in scenario
+analysis might include information that is qualitative or quantitative, and is
+obtained from an external source or developed internally. For example,
+publicly available climate-related scenarios—from authoritative sources—t...",1,CORRECT
+chunk_08_appendix_b_11,"What approach might a company take when conducting analysis for climate-related disclosures in the future, according to the document?",A company might determine that it is appropriate to carry out its analysis using a scenario consistent with an orderly transition to a lower-carbon future.,"the future—might determine that it is appropriate to carry out its analysis
+using a scenario consistent with an orderly transition to a lower-carbon
+B8
+B9
+B10
+B11
+B12
+IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023
+26
+© IFRS Foundation...",1,CORRECT
+chunk_08_appendix_b_12,What objective does paragraph 22 require entities to consider when selecting inputs for climate-related scenario analysis?,"Paragraph 22 requires entities to consider the objective of disclosing information that enables users of general purpose financial reports to understand the resilience of the entity’s strategy and business model to climate-related changes, developments, and uncertainties. This includes taking into consideration the entity’s identified climate-related risks and opportunities.","economy or consistent with relevant jurisdictional commitments to the latest
+international agreement on climate change. Elsewhere, for example, an entity
+with heightened exposure to physical climate-related risks might determine
+that it is appropriate to carry out its analysis using a localised clim...",1,CORRECT
+chunk_08_appendix_b_13,What factors should an entity consider when making analytical choices for its climate-related scenario analysis?,"An entity should consider factors such as whether to use qualitative analysis or quantitative modeling, the availability of reasonable and supportable information, the cost and effort involved in incorporating different scenarios (such as multiple carbon price pathways), and whether such analytical choices will strengthen the entity's resilience assessment based on its risk exposure.","activities the entity undertakes and the geographical location of those
+activities.
+Making analytical choices
+An entity’s resilience assessment will be informed not only by the individual
+inputs to its climate-related scenario analysis, but also by the information it
+develops in combining those inpu...",1,CORRECT
+chunk_08_appendix_b_14,What factors should an entity consider when determining its approach to climate-related scenario analysis?,"An entity should consider its exposure to climate-related risks and opportunities, as well as the skills, capabilities, and resources available for the scenario analysis. These factors may change over time, so the entity's approach to climate-related scenario analysis may also need to evolve accordingly.","Quantitative information will often enable an entity to carry out a more
+robust assessment of its climate resilience. However, qualitative information
+(including scenario narratives), either alone or combined with quantitative
+data, can also provide a reasonable and supportable basis for the entity’...",1,CORRECT
+chunk_08_appendix_b_15,다음 계획 주기에서 무엇을 고려해야 합니까? (문서 내용에 따라),"문서에 따르면, 다음 계획 주기에서는 B18항을 참고하여 고려해야 합니다. B18항에 명시된 내용을 고려하여 계획 주기를 수립해야 합니다.","planning cycle to the next (see paragraph B18).
+B13
+B14
+B15
+B16
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+27...",1,CORRECT
+chunk_08_appendix_b_16,"What factors might lead an entity to use a simpler approach to climate-related scenario analysis, according to the document?","An entity might use a simpler approach to climate-related scenario analysis if they do not currently have the skills, capabilities, or resources to carry out quantitative analysis but have a high degree of exposure to climate-related risk. They may choose to start with qualitative scenario narratives and build their capabilities over time to eventually apply a more advanced quantitative approach.","An entity might use a simpler approach to climate-related scenario analysis,
+such as qualitative scenario narratives, if such an approach is appropriate to
+the entity’s circumstances. For example, if an entity does not currently have
+the skills, capabilities or resources to carry out quantitative cl...",1,CORRECT
+chunk_08_appendix_b_17,How often should an entity update its climate-related scenario analysis according to the document?,"An entity should update its climate-related scenario analysis in line with its strategic planning cycle, which may be every three to five years. However, the entity must update its resilience assessment annually to reflect updated insight into the implications of climate uncertainty for the entity's business model and strategy.","climate resilience at each reporting date, the entity might carry out its
+climate-related scenario analysis in line with its strategic planning cycle,
+including a multi-year strategic planning cycle (for example, every three to
+five years). Therefore, in some reporting periods the entity’s disclosur...",1,CORRECT
+chunk_08_appendix_b_18,IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023 문서에서 어떤 내용이 다루어지고 있나요?,IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023 문서에서는 기후 관련 공시에 대한 내용이 다루어지고 있습니다.,"B17
+B18
+IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023
+28
+© IFRS Foundation...",1,CORRECT
+chunk_08_appendix_b_19,What specific circumstances allow an entity to use greenhouse gas emissions information from reporting periods that are different from its own reporting period?,"An entity is allowed to use greenhouse gas emissions information from reporting periods that are different from its own reporting period when the entities in its value chain have different reporting periods, making it difficult for the entity to obtain greenhouse gas emissions information for its own reporting period. In such circumstances, the entity can use information from entities in its value chain with different reporting periods as long as the most recent data available is used.","Greenhouse gases (paragraph 29(a))
+Greenhouse gas emissions
+Permission to use information from a reporting period that is
+different from the entity’s reporting period, in specific
+circumstances
+An entity might have a different reporting period from some or all of the
+entities in its value chain. Suc...",1,CORRECT
+chunk_08_appendix_b_20,"What is required for an entity to disclose its absolute gross greenhouse gas emissions generated during the reporting period, according to Paragraph 29(a)?","Paragraph 29(a) requires an entity to disclose its absolute gross greenhouse gas emissions generated during the reporting period, expressed as metric tonnes of CO2 equivalent. To meet this requirement, the entity shall aggregate the seven constituent greenhouse gases into CO2 equivalent values.","value chain without undue cost or effort to measure and disclose its
+greenhouse gas emissions;
+(b)
+the length of the reporting periods is the same; and
+(c)
+the entity discloses the effects of significant events and changes in
+circumstances (relevant to its greenhouse gas emissions) that occur
+betwee...",1,CORRECT
+chunk_08_appendix_b_21,What should an entity do if it uses emission factors to estimate its greenhouse gas emissions?,"If an entity uses emission factors to estimate its greenhouse gas emissions, the entity should use the emission factors that best represent its activity as the basis for measuring its greenhouse gas emissions. If these emission factors have already converted the constituent gases into CO2 equivalent values, the entity is not required to recalculate the emission factors using global warming potential values based on a 100-year time horizon from the latest Intergovernmental Panel on Climate Change assessment available at the reporting date.","CO2 equivalent value using global warming potential values based on a 100-
+year time horizon, from the latest Intergovernmental Panel on Climate
+Change assessment available at the reporting date.
+If an entity uses emission factors to estimate its greenhouse gas emissions, the
+entity shall use—as its...",1,CORRECT
+chunk_08_appendix_b_22,"What global warming potential values should an entity use when converting greenhouse gas emissions into CO2 equivalent values, according to the document?",An entity should use the global warming potential values based on a 100-year time horizon from the latest Intergovernmental Panel on Climate Change assessment available at the reporting date.,"converted into CO2 equivalent values, then the entity shall use the global
+warming potential values based on a 100-year time horizon from the latest
+Intergovernmental Panel on Climate Change assessment available at the
+reporting date.
+Greenhouse Gas Protocol
+Paragraph 29(a)(ii) requires an entity to...",1,CORRECT
+chunk_08_appendix_b_23,What circumstances would allow an entity to use a different method for measuring its greenhouse gas emissions instead of the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (2004)?,An entity would be allowed to use a different method for measuring its greenhouse gas emissions instead of the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (2004) if it is required by a jurisdictional authority or an exchange on which it is listed to do so. The entity can use this alternative method as long as the jurisdictional or exchange requirement is in place.,"An entity is required to use the Greenhouse Gas Protocol: A Corporate
+Accounting and Reporting Standard (2004) unless the entity is required by a
+jurisdictional authority or an exchange on which it is listed to use a different
+method for measuring its greenhouse gas emissions. If the entity is requi...",1,CORRECT
+chunk_08_appendix_b_24,What information is required to be disclosed regarding an entity's greenhouse gas emissions according to paragraph 29(a)(iii) of the Standard?,"According to paragraph 29(a)(iii) of the Standard, an entity is required to disclose the measurement approach, inputs, and assumptions it uses to measure its greenhouse gas emissions. This includes information about the measurement approach in accordance with the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (2004), the applicable method if the entity is not using the Greenhouse Gas Protocol, and the emission factors the entity uses.","circumstances, the jurisdictional requirement does not exempt the entity
+from applying the requirements in this Standard to disclose the entity’s Scope
+1, Scope 2 and Scope 3 greenhouse gas emissions for the entity as a whole.
+Measurement approach, inputs and assumptions
+Paragraph 29(a)(iii) require...",1,CORRECT
+chunk_08_appendix_b_25,이 문서는 무엇에 대해 이야기하고 있습니까?,이 문서는 IFRS Foundation에 대해 이야기하고 있습니다.,"30
+© IFRS Foundation...",1,CORRECT
+chunk_08_appendix_b_26,What approach does the entity need to use when disclosing its greenhouse gas emissions according to the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (2004)?,The entity is required to use the equity share or control approach when disclosing its greenhouse gas emissions according to the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (2004).,"The measurement approach set out in the Greenhouse Gas
+Protocol
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting
+Standard (2004) includes different measurement approaches that an entity
+might use when measuring its greenhouse gas emissions. In disclosing
+information in accordance wi...",1,CORRECT
+chunk_08_appendix_b_27,What information must an entity disclose when measuring its greenhouse gas emissions using a method other than the standard method outlined in the document?,"When an entity measures its greenhouse gas emissions using a method other than the standard method outlined in the document, the entity must disclose the applicable method and measurement approach used, as well as the reason or reasons for choosing that method and how it relates to the disclosure objective in paragraph 27. Additionally, the entity must disclose information about the emission factors used in its measurement of greenhouse gas emissions to enable users of general purpose financial reports to understand the basis of the measurement.","approach and how that approach relates to the disclosure objective in
+paragraph 27.
+Other methods and measurement approaches
+When an entity discloses its greenhouse gas emissions measured in
+accordance with another method, applying paragraphs 29(a)(ii), B24–B25 or
+C4(a), the entity shall disclose:
+(...",1,CORRECT
+chunk_08_appendix_b_28,What approach does the Standard require entities to use for measuring their greenhouse gas emissions?,The Standard requires entities to use emission factors that best represent the entity's activity as its basis for measuring their greenhouse gas emissions.,"greenhouse gas emissions. Instead, this Standard requires an entity to use
+emission factors that best represent the entity’s activity as its basis for
+measuring its greenhouse gas emissions.
+Scope 2 greenhouse gas emissions
+Paragraph 29(a)(v) requires an entity to disclose its location-based Scope 2...",1,CORRECT
+chunk_08_appendix_b_29,What types of contractual instruments are available for the sale and purchase of energy bundled with attributes about energy generation or for unbundled energy attribute claims?,"Various types of contractual instruments are available for the sale and purchase of energy bundled with attributes about energy generation or for unbundled energy attribute claims. These may include power purchase agreements (PPAs), renewable energy certificates (RECs), and other similar contracts.","information about them informs users’ understanding of an entity’s Scope 2
+greenhouse gas emissions.
+Contractual instruments are any type of contract between an entity and
+another party for the sale and purchase of energy bundled with attributes
+about the energy generation or for unbundled energy at...",1,CORRECT
+chunk_08_appendix_b_30,"According to the Greenhouse Gas Protocol Corporate Value Chain Accounting and Reporting Standard, what is required for entities to disclose in regards to their Scope 3 greenhouse gas emissions?","Entities are required to consider their entire value chain (upstream and downstream) and disclose all 15 categories of Scope 3 greenhouse gas emissions as described in the Greenhouse Gas Protocol Corporate Value Chain Accounting and Reporting Standard. Additionally, entities must disclose which of these categories are included in their Scope 3 greenhouse gas emissions disclosures.","consider its entire value chain (upstream and downstream) and shall consider
+all 15 categories of Scope 3 greenhouse gas emissions, as described in the
+Greenhouse Gas Protocol Corporate Value Chain (Scope 3) Accounting and
+Reporting Standard (2011). In accordance with paragraph 29(a)(vi), the entity...",1,CORRECT
+chunk_08_appendix_b_31,What are some examples of significant events or changes in circumstances that could impact a company's measurement of Scope 3 greenhouse gas emissions?,"Some examples of significant events or changes in circumstances that could impact a company's measurement of Scope 3 greenhouse gas emissions include:
+(a) a significant change in the entity's value chain, such as a supplier making a change that significantly alters their greenhouse gas emissions;
+(b) a significant change in the entity's business model, activities, or corporate structure, such as a merger or acquisition that expands the value chain; and
+(c) a significant change in the entity's exposure to climate-related risks and opportunities, such as changes in a supplier's emissions within the value chain.","and entities throughout its value chain to include in the measurement of its
+Scope 3 greenhouse gas emissions. A significant event or significant change in
+circumstances can occur without the entity being involved in that event or
+change in circumstances or as a result of a change in what the entity...",1,CORRECT
+chunk_08_appendix_b_32,어떤 상황에서 기업이 예상하지 못한 배출 규제의 영향을 받을 수 있나요?,기업이 예상하지 못한 배출 규제의 영향을 받을 수 있는 상황은 문서에 명시되어 있습니다. 이는 기업이 배출 규제가 도입되었음을 예상하지 못한 경우에 해당됩니다.,"affected by the introduction of an emissions regulation that the entity
+had not anticipated).
+B31
+B32
+B33
+B34
+IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023
+32
+© IFRS Foundation...",1,CORRECT
+chunk_08_appendix_b_33,"What additional information should an entity disclose about financed emissions associated with asset management, commercial banking, and insurance activities as part of its disclosure of Scope 3 greenhouse gas emissions?","An entity should disclose additional information about the financed emissions associated with asset management, commercial banking, and insurance activities as part of its disclosure of Scope 3 greenhouse gas emissions. This additional information may include details on the amount of greenhouse gas emissions financed by the entity through these activities, the methodologies used to calculate these emissions, and any efforts or initiatives undertaken by the entity to reduce or mitigate these financed emissions.","An entity is permitted, but not required, to reassess the scope of any climate-
+related risk or opportunity throughout its value chain more frequently than
+required by paragraph B11 in IFRS S1.
+In accordance with paragraph B6(b) in IFRS S1, to determine the scope of the
+value chain, which includes i...",1,CORRECT
+chunk_08_appendix_b_34,What guidance does the measurement framework described in paragraphs B40-B54 provide for entities in preparing their Scope 3 greenhouse gas emissions disclosures?,"The measurement framework described in paragraphs B40-B54 provides guidance for entities to use in preparing their Scope 3 greenhouse gas emissions disclosures. This framework helps entities select a measurement approach, inputs, and assumptions that result in a faithful representation of the measurement of Scope 3 greenhouse gas emissions. It also requires entities to use all reasonable and supportable information available to them at the reporting date without undue cost or effort.","measurement. In measuring Scope 3 greenhouse gas emissions an entity shall
+use a measurement approach, inputs and assumptions that result in a faithful
+representation of this measurement. The measurement framework described
+in paragraphs B40–B54 provides guidance for an entity to use in preparing it...",1,CORRECT
+chunk_08_appendix_b_35,What types of data are required for an entity to apply the Scope 3 measurement framework according to the IFRS Sustainability Disclosure Standards?,"The types of data required for an entity to apply the Scope 3 measurement framework according to the IFRS Sustainability Disclosure Standards include:
+- Data based on direct measurement
+- Data from specific activities within the entity's value chain
+- Timely data that faithfully represents the jurisdiction of, and the technology used for, the value chain activity and its greenhouse gas emissions
+- Data that has been verified","(a)
+data based on direct measurement (paragraphs B43–B45);
+(b)
+data from specific activities within the entity’s value chain (paragraphs
+B46–B49);
+(c)
+timely data that faithfully represents the jurisdiction of, and the
+technology used for, the value chain activity and its greenhouse gas
+emissions (p...",1,CORRECT
+chunk_08_appendix_b_36,"What are the two methods used to quantify Scope 3 greenhouse gas emissions, and which method should be prioritized according to the document?","The two methods used to quantify Scope 3 greenhouse gas emissions are direct measurement and estimation. According to the document, an entity should prioritize direct measurement over estimation when quantifying Scope 3 greenhouse gas emissions.","An entity’s prioritisation of the measurement approach, inputs and
+assumptions and the entity’s considerations of associated trade-offs—based on
+the characteristics in paragraph B40—requires management to apply
+judgement. For example, an entity might need to consider the trade-offs
+between timely da...",1,CORRECT
+chunk_08_appendix_b_37,What are the two types of inputs that an entity is likely to use when estimating its Scope 3 greenhouse gas emissions?,The two types of inputs that an entity is likely to use when estimating its Scope 3 greenhouse gas emissions are activity data and emission factors.,"‘Direct measurement’ refers to the direct monitoring of greenhouse gas
+emissions and, in theory, provides the most accurate evidence. However, it is
+expected that Scope 3 greenhouse gas emissions data will include estimation
+due to the challenges associated with direct measurement of Scope 3
+greenho...",1,CORRECT
+chunk_08_appendix_b_38,"What type of data should an entity prioritize when measuring its Scope 3 greenhouse gas emissions, according to the document?","An entity should prioritize primary data when measuring its Scope 3 greenhouse gas emissions, as it is more likely to be representative of the entity's value chain activity and its greenhouse gas emissions compared to secondary data.","(activity data) into greenhouse gas emissions data using emission
+factors.
+Data from specific activities within the entity’s value chain
+An entity’s measurement of its Scope 3 greenhouse gas emissions will be based
+on data obtained directly from specific activities within the entity’s value
+chain (p...",1,CORRECT
+chunk_08_appendix_b_39,Where can primary data for Scope 3 greenhouse gas emissions be sourced from?,"Primary data for Scope 3 greenhouse gas emissions can be sourced from suppliers or other entities in the value chain related to specific activities in an entity’s value chain. This data could be obtained from meter readings, utility bills, or other methods that represent specific activities within the entity’s value chain. Additionally, primary data could be collected internally through the entity’s own records or externally from suppliers and other value chain partners, such as supplier-specific emission factors for purchased goods or services.","Primary data for Scope 3 greenhouse gas emissions includes data provided by
+suppliers or other entities in the value chain related to specific activities in an
+entity’s value chain. For example, primary data could be sourced from meter
+readings, utility bills or other methods that represent specific...",1,CORRECT
+chunk_08_appendix_b_40,What factors should an entity consider when using secondary data to measure its Scope 3 greenhouse gas emissions?,"An entity should consider factors such as the accuracy and reliability of the secondary data, whether the data represents the technology used in the value chain activity, the timeliness of the data, and whether the data faithfully represents the entity's activities. Additionally, the entity should prioritize the use of activity or emissions data that is based on, or represents, the technology used in the value chain activity the data is intended to represent.","Secondary data is often supplied by third-party data providers and includes
+industry-average data (for example, from published databases, government
+statistics, literature studies and industry associations). Secondary data
+includes data used to approximate the activity or emission factors.
+Additiona...",1,CORRECT
+chunk_08_appendix_b_41,What factors should an entity prioritize when using secondary data to estimate greenhouse gas emissions from air travel?,"An entity should prioritize activity or emissions data that is based on, or represents, the jurisdiction in which the activity happened. Additionally, the entity should prioritize data that is timely and representative of the entity's value chain activity during the reporting period.","might obtain primary data from its activities (for example, the specific aircraft
+model, distance travelled and travel-class used by employees when travelling)
+and would then use secondary data that represents the greenhouse gas
+emissions arising from those activities to convert the primary data int...",1,CORRECT
+chunk_08_appendix_b_42,What is the potential issue with relying on secondary data sources for sustainability disclosure standards?,The potential issue with relying on secondary data sources for sustainability disclosure standards is that these sources may collect information in a reporting period that is different from the entity's own reporting period. This could lead to discrepancies or inaccuracies in the data presented.,"data is collected annually and, therefore, the data is likely to be representative
+of the entity’s current practice. However, some secondary data sources rely on
+information collected in a reporting period that is different from the entity’s
+own reporting period.
+B48
+B49
+B50
+B51
+B52
+IFRS SUSTAINABIL...",1,CORRECT
+chunk_08_appendix_b_43,What are some ways in which verification of Scope 3 greenhouse gas emissions data can take place?,"Verification of Scope 3 greenhouse gas emissions data can take place through on-site checking, reviewing calculations, or cross-checking of data against other sources.","Verified data
+An entity shall prioritise Scope 3 greenhouse gas emissions data that is
+verified. Verification can provide users of general purpose financial reports
+with confidence that the information is complete, neutral and accurate.
+Verified data might include data that has been internally or ex...",1,CORRECT
+chunk_08_appendix_b_44,"What information should an entity disclose regarding the measurement approach, inputs, and assumptions used to measure its Scope 3 greenhouse gas emissions?","An entity should disclose information about the measurement approach, inputs, and assumptions it uses to measure its Scope 3 greenhouse gas emissions. This disclosure should include information about the characteristics of the data inputs as described in paragraph B40. The purpose of this disclosure is to provide users of general purpose financial reports with information about how the entity has prioritised the highest quality data available, which faithfully represents the value chain activity and its Scope 3 greenhouse gas emissions. This disclosure also helps users of general purpose financial reports to understand why the measurement approach, inputs, and assumptions the entity uses to estimate its Scope 3 greenhouse gas emissions are relevant.","Disclosure of inputs to Scope 3 greenhouse gas emissions
+An entity shall disclose information about the measurement approach, inputs
+and assumptions it uses to measure its Scope 3 greenhouse gas emissions in
+accordance with paragraph 29(a)(iii). This disclosure shall include information
+about the ch...",1,CORRECT
+chunk_08_appendix_b_45,How does the entity prioritize Scope 3 data according to the measurement framework set out in paragraphs B40-B54?,The entity prioritizes Scope 3 data by disclosing information that enables users of general purpose financial reports to understand the extent to which the entity's Scope 3 greenhouse gas emissions are measured using inputs from specific activities within the entity's value chain and the extent to which they are measured using verified inputs. The entity follows the measurement framework set out in paragraphs B40-B54 to ensure accurate reporting of Scope 3 data.,"prioritises Scope 3 data in accordance with the measurement framework set
+out in paragraphs B40–B54, the entity shall disclose information that enables
+users of general purpose financial reports to understand:
+(a)
+the extent to which the entity’s Scope 3 greenhouse gas emissions are
+measured using i...",1,CORRECT
+chunk_08_appendix_b_46,어떤 날짜에 IFRS S2 기준의 기후 관련 공시가 이루어질 것인가요?,IFRS S2 기준의 기후 관련 공시는 2023년 6월에 이루어질 것입니다.,"B53
+B54
+B55
+B56
+B57
+IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023
+36
+© IFRS Foundation...",1,CORRECT
+chunk_08_appendix_b_47,What are some risks and opportunities that entities participating in financial activities face related to greenhouse gas emissions?,"Some risks and opportunities that entities participating in financial activities face related to greenhouse gas emissions include credit risk, market risk, reputational risk, and other financial and operational risks. For example, entities may face credit risk if they finance clients affected by increasingly stringent carbon taxes or fuel efficiency regulations. They may also face reputational risk if they finance fossil-fuel projects. Additionally, entities may face risks associated with technological changes, shifts in supply and demand, and policy changes related to greenhouse gas emissions. These risks and opportunities can impact the financial institution providing services to these entities.","Financed emissions
+Entities participating in financial activities face risks and opportunities related
+to 
+the 
+greenhouse 
+gas 
+emissions 
+associated 
+with 
+those 
+activities.
+Counterparties, borrowers or investees with higher greenhouse gas emissions
+might be susceptible to risks associated with t...",1,CORRECT
+chunk_08_appendix_b_48,"What specific financial activities require entities to disclose additional information about their Category 15 emissions or financed emissions, according to the document?","According to the document, the specific financial activities that require entities to disclose additional information about their Category 15 emissions or financed emissions are asset management, commercial banking, and insurance.","commercial and investment banks, asset managers and insurance entities, are
+increasingly monitoring and managing such risks by measuring their financed
+emissions. This measurement serves as an indicator of an entity’s exposure to
+climate-related risks and opportunities and how the entity might need ...",1,CORRECT
+chunk_08_appendix_b_49,What information should an entity participating in asset management activities disclose regarding its financed emissions?,"An entity participating in asset management activities should disclose its absolute gross financed emissions, disaggregated by Scope 1, Scope 2, and Scope 3 greenhouse gas emissions. Additionally, the entity should disclose the total amount of assets under management (AUM) included in the financed emissions disclosure, expressed in the presentation currency of the entity's financial statements. The entity should also disclose the percentage of its total AUM included in the financed emissions calculation, and if the percentage is less than 100%, provide information explaining the exclusions, including types of assets and associated amount of AUM.","emissions in accordance with paragraph 29(a) when disclosing information
+about its financed emissions.
+Asset management
+An entity that participates in asset management activities shall disclose:
+(a)
+its absolute gross financed emissions, disaggregated by Scope 1, Scope
+2 and Scope 3 greenhouse gas e...",1,CORRECT
+chunk_08_appendix_b_50,"What methodology should an entity participating in commercial banking activities use to calculate its financed emissions, and how should it allocate its share of emissions in relation to the size of investments?","An entity participating in commercial banking activities should use the methodology outlined in the document to calculate its financed emissions. This includes disaggregating the emissions by Scope 1, Scope 2, and Scope 3 greenhouse gas emissions for each industry by asset class. When allocating its share of emissions in relation to the size of investments, the entity should use the method of allocation it used to attribute its share of emissions, taking into account the size of investments in different asset classes such as loans, project finance, bonds, equity investments, and undrawn loan commitments. The entity should also use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties and provide an explanation if it calculates and discloses financed emissions for other asset classes.","(d)
+the methodology used to calculate the financed emissions, including
+the method of allocation the entity used to attribute its share of
+emissions in relation to the size of investments.
+Commercial banking
+An entity that participates in commercial banking activities shall disclose:
+(a)
+its absolut...",1,CORRECT
+chunk_08_appendix_b_51,What information should be disclosed regarding the entity's gross exposure to each industry by asset class in its financial statements?,"The entity should disclose its gross exposure to each industry by asset class, expressed in the presentation currency of its financial statements. This includes disclosing the funded amounts as calculated before subtracting the loss allowance, and disclosing the full amount of undrawn loan commitments separately from the drawn portion of loan commitments. Additionally, the entity should disclose the percentage of its gross exposure included in the financed emissions calculation. If the percentage is less than 100%, the entity should provide information explaining the exclusions, including the type of assets excluded.","inclusion of those additional asset classes provides relevant
+information to users of general purpose financial reports.
+(b)
+its gross exposure to each industry by asset class, expressed in the
+presentation currency of the entity’s financial statements. For:
+(i)
+funded amounts—gross exposure shall b...",1,CORRECT
+chunk_08_appendix_b_52,"What methodology should entities disclose when calculating their financed emissions, including how they attribute their share of emissions in relation to the size of their gross exposure?","Entities should disclose the methodology they used to calculate their financed emissions, including the method of allocation they used to attribute their share of emissions in relation to the size of their gross exposure. This information should be disclosed in accordance with the guidelines provided in the document, ensuring that all impacts of risk mitigants are excluded from the calculation of funded amounts. Additionally, entities should disclose separately the percentage of undrawn loan commitments included in the financed emissions calculation.","(ii)
+for funded amounts, exclude from gross exposure all impacts of
+risk mitigants, if applicable.
+(iii)
+disclose separately the percentage of its undrawn loan
+commitments included in the financed emissions calculation.
+(d)
+the methodology the entity used to calculate its financed emissions,
+includi...",1,CORRECT
+chunk_08_appendix_b_53,What specific information must an insurance entity disclose regarding its absolute gross financed emissions in relation to greenhouse gas emissions for each industry by asset class?,"An insurance entity must disclose its absolute gross financed emissions, disaggregated by Scope 1, Scope 2, and Scope 3 greenhouse gas emissions for each industry by asset class. This includes using the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties and including loans, bonds, equity investments, and undrawn loan commitments in the disclosure. If the entity calculates and discloses financed emissions for other asset classes, it must provide an explanation of why the inclusion of those additional asset classes is relevant to users of general purpose financial reports.","Insurance
+An entity that participates in financial activities associated with the insurance
+industry shall disclose:
+(a)
+its absolute gross financed emissions, disaggregated by Scope 1, Scope
+2 and Scope 3 greenhouse gas emissions for each industry by asset
+class. When disaggregating by:
+(i)
+industr...",1,CORRECT
+chunk_08_appendix_b_54,What information should be disclosed regarding the funded amounts and undrawn loan commitments in the entity's financial statements?,"Regarding the funded amounts, the entity should disclose the gross exposure calculated as the funded carrying amounts before subtracting the loss allowance, whether prepared in accordance with IFRS Accounting Standards or other GAAP. 
+
+Regarding undrawn loan commitments, the entity should disclose the full amount of the commitment separately from the drawn portion of loan commitments. Additionally, the entity should disclose separately the percentage of its undrawn loan commitments included in the financed emissions calculation.","presentation currency of the entity’s financial statements. For:
+(i)
+funded amounts—gross exposure shall be calculated as the
+funded 
+carrying 
+amounts 
+(before 
+subtracting 
+the 
+loss
+allowance, when applicable), whether prepared in accordance
+with IFRS Accounting Standards or other GAAP.
+(ii)
+undr...",1,CORRECT
+chunk_08_appendix_b_55,What method does the entity use to attribute its share of emissions in relation to the size of its gross exposure?,The entity uses the method of allocation to attribute its share of emissions in relation to the size of its gross exposure.,"including the method of allocation the entity used to attribute its
+share of emissions in relation to the size of its gross exposure.
+B63
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+39...",1,CORRECT
+chunk_08_appendix_b_56,What information is required to be disclosed in relation to the cross-industry metric categories set out in paragraphs 29(b)–(g)?,"The information required to be disclosed in relation to the cross-industry metric categories set out in paragraphs 29(b)–(g) includes considerations of time horizons for climate-related risks and opportunities, concentration of climate-related risks and opportunities in the entity's business model and value chain, and the effects of climate-related risks and opportunities on the entity's financial position, financial performance, and cash flows for the reporting period.","Cross-industry metric categories (paragraph 29(b)–(g))
+In addition to information about an entity’s greenhouse gas emissions, the
+entity is required to disclose information relevant to the cross-industry metric
+categories set out in paragraph 29(b)–(g).
+In preparing disclosures to fulfil the require...",1,CORRECT
+chunk_08_appendix_b_57,어떤 기준을 충족시키기 위해 산업 기반 지표가 사용될 수 있는지에 대해 고려해야 하는가?,"문서에 따르면, 산업 기반 지표가 사용될 수 있는지 여부를 고려해야 합니다. 이는 해당 IFRS 지속가능성 보고 기준에 정의된 지표이거나 IFRS S1의 요구 사항을 충족하는 지표일 수 있습니다. 따라서, 산업 기반 지표가 사용될 수 있는지를 고려하여 요구 사항을 전체 또는 일부로 충족시킬 수 있습니다.","(d)
+consider whether industry-based metrics, as described in paragraph 32
+—including those defined in an applicable IFRS Sustainability
+Disclosure Standard or those that otherwise satisfy the requirements
+in IFRS S1—could be used to satisfy the requirements in whole or in
+part.
+(e)
+consider the conn...",1,CORRECT
+chunk_08_appendix_b_58,어떤 종류의 정보가 IFRS S2 CLIMATE-RELATED DISCLOSURES 문서에 포함되어 있습니까?,IFRS S2 CLIMATE-RELATED DISCLOSURES 문서에는 기후 관련 정보가 포함되어 있습니다.,"these disclosures and amounts in the financial statements.
+B64
+B65
+IFRS S2 CLIMATE-RELATED DISCLOSURES—JUNE 2023
+40
+© IFRS Foundation...",1,CORRECT
+chunk_08_appendix_b_59,What are the characteristics of a climate-related target that an entity is required to disclose according to paragraph 33 of the document?,"According to paragraph 33 of the document, an entity is required to disclose the quantitative or qualitative climate-related targets it has set, any targets it is required to meet by law or regulation, including greenhouse gas emissions targets. The entity is also required to disclose information about the characteristics of these targets, such as whether the target is an absolute target or an intensity target. If the target is quantitative, the entity must describe whether it is a total amount of a measure or a change in the total amount of a measure (absolute target) or a ratio of a measure, or a change in the ratio of a measure, to a business metric (intensity target).","Climate-related targets (paragraphs 33–37)
+Characteristics of a climate-related target
+Paragraph 33 requires an entity to disclose the quantitative or qualitative
+climate-related targets it has set, and any it is required to meet by law or
+regulation, including any greenhouse gas emissions targets. ...",1,CORRECT
+chunk_08_appendix_b_60,What is the difference between gross greenhouse gas emissions targets and net greenhouse gas emissions targets according to the document?,"Gross greenhouse gas emissions targets reflect the total changes in greenhouse gas emissions planned within the entity's value chain, while net greenhouse gas emissions targets are the entity's targeted gross greenhouse gas emissions minus any planned offsetting efforts, such as the entity's planned use of carbon credits to offset its greenhouse gas emissions.","and measure progress, an entity shall consider the cross-industry metrics and
+industry-based metrics. If the metric has been developed by the entity to
+measure progress towards a target, the entity shall disclose information about
+that metric in accordance with paragraph 50 of IFRS S1.
+Greenhouse ga...",1,CORRECT
+chunk_08_appendix_b_61,What information must an entity disclose regarding its use of carbon credits to offset emissions in relation to its greenhouse gas emissions targets?,"An entity must disclose its planned use of carbon credits to offset emissions in order to achieve any net greenhouse gas emissions targets it has set, or any targets required to meet by law or regulation. The information provided should clearly demonstrate the extent to which these carbon credits are relied upon to achieve the net greenhouse gas emissions targets.","target it is required to also disclose a gross greenhouse gas emissions target.
+For the avoidance of doubt, if the entity discloses a net greenhouse gas
+emissions target, this target cannot obscure information about its gross
+greenhouse gas emissions targets.
+Carbon credits
+Paragraph 36(e) requires ...",1,CORRECT
+chunk_08_appendix_b_62,What information is an entity required to disclose in accordance with paragraph 36(e) regarding carbon credits?,An entity is required to disclose only its planned use of carbon credits in accordance with paragraph 36(e).,"In accordance with paragraph 36(e), an entity is required to disclose only its
+planned use of carbon credits. However, as part of this disclosure, the entity
+might also include information about carbon credits it has already purchased
+that the entity is planning to use to meet its net greenhouse gas...",1,CORRECT
+chunk_09_appendix_c_01,When can an entity apply IFRS S2 and what is the requirement for disclosing earlier application?,"An entity can apply IFRS S2 for annual reporting periods beginning on or after 1 January 2024. Earlier application is permitted, but if an entity applies this Standard earlier, it must disclose that fact and apply IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information at the same time.","Appendix C
+Effective date and transition
+This appendix is an integral part of IFRS S2 and has the same authority as the other parts of the
+Standard.
+Effective date
+An entity shall apply this Standard for annual reporting periods beginning on
+or after 1 January 2024. Earlier application is permitted....",1,CORRECT
+chunk_09_appendix_c_02,What are the two reliefs that an entity is permitted to use in the first annual reporting period when applying this Standard?,"The two reliefs that an entity is permitted to use in the first annual reporting period when applying this Standard are:
+(a) Continuing to use a method for measuring greenhouse gas emissions other than the Greenhouse Gas Protocol if it was used in the previous reporting period before the date of initial application of the Standard.
+(b) Not disclosing Scope 3 greenhouse gas emissions, including financed emissions, if the entity participates in asset management, commercial banking, or insurance activities.","In the first annual reporting period in which an entity applies this Standard,
+the entity is permitted to use one or both of these reliefs:
+(a)
+if, in the annual reporting period immediately preceding the date of
+initial application of this Standard, the entity used a method for
+measuring its greenh...",1,CORRECT
+chunk_09_appendix_c_03,어떤 종류의 정보가 이후 보고 기간에 비교 정보로 사용될 수 있는가?,"C1, C2, C3, C4, C5 종류의 정보가 이후 보고 기간에 비교 정보로 사용될 수 있습니다.","information as comparative information in subsequent reporting periods.
+C1
+C2
+C3
+C4
+C5
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+43...",1,CORRECT
+chunk_10_approval_01,Who are the three Vice-Chairs of the International Sustainability Standards Board that approved the IFRS S2 Climate-related Disclosures in June 2023?,"The three Vice-Chairs of the International Sustainability Standards Board that approved the IFRS S2 Climate-related Disclosures in June 2023 are Jingdong Hua, Suzanne Lloyd, and Verity Chegar.","Approval by the ISSB of IFRS S2 Climate-related Disclosures
+issued in June 2023
+IFRS S2 Climate-related Disclosures was approved for issue by all 14 members of the
+International Sustainability Standards Board.
+Emmanuel Faber
+Chair
+Jingdong Hua
+Vice-Chair
+Suzanne Lloyd
+Vice-Chair
+Richard Barker
+Jenny...",1,CORRECT

@@ -1,0 +1,816 @@
+﻿chunk_id,question,answer,context,score,reasoning
+chunk_01_objective_01,Why is it important for entities to disclose information about their sustainability-related risks and opportunities according to IFRS S1 General Requirements?,"It is important for entities to disclose information about their sustainability-related risks and opportunities according to IFRS S1 General Requirements because this information is useful to primary users of general purpose financial reports in making decisions relating to providing resources to the entity. The ability of an entity to generate cash flows over the short, medium, and long term is closely linked to its interactions with stakeholders, society, the economy, and the natural environment throughout its value chain. By disclosing information about sustainability-related risks and opportunities, entities can provide transparency about their dependencies on resources and relationships, as well as their impacts on these resources and relationships. This helps stakeholders make informed decisions about supporting the entity and contributes to a more sustainable business operation.","Objective
+The objective of IFRS S1 General Requirements for Disclosure of Sustainability-
+related Financial Information is to require an entity to disclose information
+about its sustainability-related risks and opportunities that is useful to
+primary users of general purpose financial reports in mak...",1,CORRECT
+chunk_01_objective_02,"What specific information does the Standard require an entity to disclose regarding sustainability-related risks and opportunities that could affect the entity's cash flows, access to finance, or cost of capital over different time frames?","The Standard requires an entity to disclose information about all sustainability-related risks and opportunities that could reasonably be expected to affect the entity's cash flows, its access to finance, or cost of capital over the short, medium, or long term. This includes information on how these risks and opportunities could impact the entity's prospects and how they are being managed by the entity.","sustainability-related risks and opportunities for the entity.
+This Standard requires an entity to disclose information about all
+sustainability-related risks and opportunities that could reasonably be
+expected to affect the entity’s cash flows, its access to finance or cost of
+capital over the shor...",1,CORRECT
+chunk_02_scope_01,What is the scope of the Standard in terms of sustainability-related risks and opportunities that should be disclosed by an entity?,The scope of the Standard includes sustainability-related risks and opportunities that could reasonably be expected to affect an entity's prospects. Any risks and opportunities that could not reasonably be expected to have an impact are outside the scope of the Standard. Other IFRS Sustainability Disclosure Standards specify the specific information that an entity is required to disclose about sustainability-related risks and opportunities.,"Scope
+An entity shall apply this Standard in preparing and reporting
+sustainability-related financial disclosures in accordance with IFRS
+Sustainability Disclosure Standards.
+Sustainability-related risks and opportunities that could not reasonably be
+expected to affect an entity’s prospects are outs...",1,CORRECT
+chunk_02_scope_02,"What types of entities can apply IFRS Sustainability Disclosure Standards, regardless of the accounting principles or practices used for their financial statements?","Profit-oriented entities, including public-sector business entities, can apply IFRS Sustainability Disclosure Standards regardless of the accounting principles or practices used for their financial statements.","An entity may apply IFRS Sustainability Disclosure Standards irrespective
+of whether the entity’s related general purpose financial statements
+(referred to as ‘financial statements’) are prepared in accordance with IFRS
+Accounting Standards or other generally accepted accounting principles or
+practi...",1,CORRECT
+chunk_03_concepts_01,What are the fundamental qualitative characteristics of useful sustainability-related financial information?,The fundamental qualitative characteristics of useful sustainability-related financial information are relevance and faithful representation.,"Conceptual foundations
+For sustainability-related financial information to be useful, it must be
+relevant and faithfully represent what it purports to represent. These are
+fundamental qualitative characteristics of useful sustainability-related
+financial information. The usefulness of sustainability...",1,CORRECT
+chunk_03_concepts_02,"What specific aspects of sustainability-related risks and opportunities should an entity provide a complete, neutral, and accurate depiction of, in accordance with the principles set out in the Standard mentioned in the document?","An entity should provide a complete, neutral, and accurate depiction of sustainability-related risks and opportunities that could reasonably be expected to affect the entity's prospects. This includes disclosing information that is comparable, verifiable, timely, and understandable, as well as disclosing additional information if compliance with the specifically applicable requirements in IFRS Sustainability Disclosure Standards is insufficient to enable users of general purpose financial reports to assess the entity's sustainability-related risks and opportunities.","sustainability-related risks and opportunities that could reasonably be
+expected to affect the entity’s prospects, and their faithful representation
+in accordance with the principles set out in this Standard. To achieve
+faithful representation, an entity shall provide a complete, neutral and
+accurat...",1,CORRECT
+chunk_03_concepts_03,What standards are used for sustainability disclosure according to the IFRS Foundation?,IFRS Sustainability Disclosure Standards.,"understand the effects of sustainability-related risks and opportunities
+8
+9
+10
+11
+12
+13
+14
+15
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+7...",1,CORRECT
+chunk_03_concepts_04,What is the importance of disclosing material information about sustainability-related risks and opportunities according to IFRS Sustainability Disclosure Standards?,"Disclosing material information about sustainability-related risks and opportunities according to IFRS Sustainability Disclosure Standards is important because it allows for a fair presentation of the entity's cash flows, access to finance, and cost of capital over the short, medium, and long term. This information is crucial for stakeholders and investors to make informed decisions based on the entity's prospects and overall performance. Failure to disclose material information could potentially influence decisions made by users of financial reports, which include both financial statements and sustainability-related financial disclosures. By following the standards set by IFRS, entities can ensure transparency and accountability in their reporting practices.","on the entity’s cash flows, its access to finance and cost of capital over
+the short, medium and long term.
+Applying 
+IFRS 
+Sustainability 
+Disclosure 
+Standards, 
+with 
+additional
+information disclosed when necessary (see paragraph 15(b)), is presumed to
+result in sustainability-related financial d...",1,CORRECT
+chunk_03_concepts_05,What types of connections should an entity provide information on in its sustainability-related financial disclosures?,"An entity should provide information on the connections between the items to which the information relates, such as connections between various sustainability-related risks and opportunities that could reasonably be expected to affect the entity's prospects. Additionally, the entity should provide information on the connections within its sustainability-related financial disclosures, such as connections between disclosures on governance, strategy, risk management, and metrics and targets. Furthermore, the entity should provide information on the connections across its sustainability-related financial disclosures.","To identify and disclose material information, an entity shall apply paragraphs
+B13–B37.
+Reporting entity
+An entity’s sustainability-related financial disclosures shall be for the same
+reporting entity as the related financial statements (see paragraph B38).
+Connected information
+An entity shall pro...",1,CORRECT
+chunk_03_concepts_06,어떤 문서를 기반으로 기업이 발표하는 지속가능성 관련 재무 정보를 식별해야 하는가요?,"기업이 발표하는 지속가능성 관련 재무 정보를 식별하기 위해서는 해당 기업이 발표하는 다른 일반 목적의 재무 보고서를 고려해야 합니다. 또한, 해당 재무 정보가 관련된 재무 보고서와 관련이 있는지 확인해야 합니다.","other general purpose financial reports published by the entity
+—such as its related financial statements (see paragraphs
+B39–B44).
+An entity shall identify the financial statements to which the sustainability-
+related financial disclosures relate.
+16
+17
+18
+19
+20
+21
+22
+IFRS S1 GENERAL REQUIREMENTS F...",1,CORRECT
+chunk_03_concepts_07,What should be the relationship between the data and assumptions used in preparing sustainability-related financial disclosures and the related financial statements according to the document?,"The data and assumptions used in preparing sustainability-related financial disclosures should be consistent with the corresponding data and assumptions used in preparing the related financial statements, to the extent possible considering the requirements of IFRS Accounting Standards or other applicable GAAP. This ensures alignment and accuracy between the two sets of financial information.","Data and assumptions used in preparing the sustainability-related financial
+disclosures shall be consistent—to the extent possible considering the
+requirements of IFRS Accounting Standards or other applicable GAAP—
+with the corresponding data and assumptions used in preparing the
+related financial s...",1,CORRECT
+chunk_04_governance_01,"Who is responsible for oversight of sustainability-related risks and opportunities within an entity, according to the document on governance?","The governance body(s) or individual(s) responsible for oversight of sustainability-related risks and opportunities within an entity are identified in the terms of reference, mandates, role descriptions, and other related policies applicable to that body(s) or individual(s).","Governance
+The objective of sustainability-related financial disclosures on governance
+is to enable users of general purpose financial reports to understand the
+governance processes, controls and procedures an entity uses to monitor,
+manage and oversee sustainability-related risks and opportunities....",1,CORRECT
+chunk_04_governance_02,How does the body or individual determine whether appropriate skills and competencies are available or will be developed to oversee strategies designed to respond to sustainability-related risks and opportunities?,"The body or individual determines whether appropriate skills and competencies are available or will be developed by assessing the current skill set within the organization and identifying any gaps that need to be filled. This may involve conducting a skills audit, providing training and development opportunities, or hiring external experts with the necessary expertise. Additionally, the body or individual may consider the future needs of the organization in terms of sustainability-related risks and opportunities and plan accordingly to ensure that the necessary skills and competencies are in place.","(ii)
+how 
+the 
+body(s) 
+or 
+individual(s) 
+determines 
+whether
+appropriate skills and competencies are available or will be
+developed to oversee strategies designed to respond to
+sustainability-related risks and opportunities;
+(iii)
+how and how often the body(s) or individual(s) is informed
+about su...",1,CORRECT
+chunk_04_governance_03,How does management oversee sustainability-related risks and opportunities within the organization?,Management oversees sustainability-related risks and opportunities within the organization by delegating the role to a specific management-level position or committee. They exercise oversight over this position or committee to ensure that controls and procedures are in place to support the oversight of sustainability-related risks and opportunities. These controls and procedures are integrated with other internal functions to ensure a comprehensive approach to managing sustainability within the organization.,"(b)
+management’s role in the governance processes, controls and
+procedures used to monitor, manage and oversee sustainability-related
+risks and opportunities, including information about:
+(i)
+whether the role is delegated to a specific management-level
+position or management-level committee and how ...",1,CORRECT
+chunk_05_strategy_01,What is the objective of sustainability-related financial disclosures on strategy according to the document?,The objective of sustainability-related financial disclosures on strategy is to enable users of general purpose financial reports to understand an entity’s strategy for managing sustainability-related risks and opportunities.,"Strategy
+The objective of sustainability-related financial disclosures on strategy is to
+enable users of general purpose financial reports to understand an entity’s
+strategy for managing sustainability-related risks and opportunities.
+Specifically, an entity shall disclose information to enable user...",1,CORRECT
+chunk_05_strategy_02,What information should an entity disclose in order to enable users of general purpose financial reports to understand the sustainability-related risks and opportunities that could affect the entity's prospects?,"An entity should disclose information regarding the effects of sustainability-related risks and opportunities on the entity's financial position, financial performance, and cash flows for the reporting period. They should also disclose the anticipated effects of these risks and opportunities on the entity's financial position, financial performance, and cash flows over the short, medium, and long term. Additionally, the entity should disclose how these sustainability-related risks and opportunities have been factored into the entity's financial planning. This information will enable users of general purpose financial reports to understand the potential impact of sustainability-related risks and opportunities on the entity's prospects.","(d)
+the effects of those sustainability-related risks and opportunities on
+the entity’s financial position, financial performance and cash flows
+for the reporting period, and their anticipated effects on the entity’s
+financial position, financial performance and cash flows over the
+short, medium and...",1,CORRECT
+chunk_05_strategy_03,What factors can influence the time horizons for sustainability-related risks and opportunities to occur within an entity?,"Factors that can influence the time horizons for sustainability-related risks and opportunities to occur within an entity include industry-specific characteristics, such as cash flow, investment and business cycles, the planning horizons typically used in the entity's industry for strategic decision-making and capital allocation plans, and the time horizons over which users of general purpose financial reports conduct their assessments of entities in that industry. These factors can vary between entities and can impact whether sustainability-related risks and opportunities are expected to occur in the short, medium, or long term.","reasonably be expected to affect the entity’s prospects;
+(b)
+specify the time horizons—short, medium or long term—over which
+the effects of each of those sustainability-related risks and
+opportunities could reasonably be expected to occur; and
+(c)
+explain how the entity defines ‘short term’, ‘medium...",1,CORRECT
+chunk_05_strategy_04,What specific information should be disclosed in financial reports regarding the effects of sustainability-related risks and opportunities on an entity's business model and value chain?,"In financial reports, specific information that should be disclosed regarding the effects of sustainability-related risks and opportunities on an entity's business model and value chain includes:
+- A description of the current and anticipated effects of sustainability-related risks and opportunities on the entity's business model and value chain.
+- A description of where in the entity's business model and value chain sustainability-related risks and opportunities are concentrated, such as geographical areas, facilities, and types of assets.","financial reports to understand the current and anticipated effects of
+sustainability-related risks and opportunities on the entity’s business model
+and value chain. Specifically, the entity shall disclose:
+(a)
+a description of the current and anticipated effects of sustainability-
+related risks and...",1,CORRECT
+chunk_05_strategy_05,How does an entity disclose information about its response to sustainability-related risks and opportunities in its strategy and decision-making?,"An entity discloses information about its response to sustainability-related risks and opportunities in its strategy and decision-making by providing details on how it has responded to these risks and opportunities, as well as its plans for future responses. This information should include specific actions taken by the entity, as well as any changes made to its strategy in response to sustainability-related factors. Additionally, the entity should disclose any progress made against plans that were disclosed in previous reporting periods, including both quantitative and qualitative information. Trade-offs between sustainability-related risks and opportunities that were considered in decision-making should also be disclosed to provide a comprehensive understanding of the entity's approach to sustainability.","Strategy and decision-making
+An entity shall disclose information that enables users of general purpose
+financial reports to understand the effects of sustainability-related risks and
+opportunities on its strategy and decision-making. Specifically, the entity shall
+disclose information about:
+(a)
+ho...",1,CORRECT
+chunk_05_strategy_06,What specific information should an entity disclose in order to help users of financial reports understand the current and anticipated financial effects of sustainability-related risks and opportunities?,"An entity should disclose quantitative and qualitative information about how sustainability-related risks and opportunities have affected its financial position, financial performance, and cash flows for the reporting period. Additionally, the entity should disclose the sustainability-related risks and opportunities identified in the short, medium, and long term, taking into consideration how they are included in the entity's financial planning. This information will help users of financial reports understand both the current and anticipated financial effects of sustainability-related risks and opportunities.","An entity shall disclose information that enables users of general purpose
+financial reports to understand:
+(a)
+the effects of sustainability-related risks and opportunities on the
+entity’s financial position, financial performance and cash flows for
+the reporting period (current financial effects);...",1,CORRECT
+chunk_05_strategy_07,What factors does the entity consider when assessing the risk of a material adjustment to the carrying amounts of assets and liabilities in the next annual reporting period?,"The entity considers factors such as changes in market conditions, regulatory requirements, technological advancements, and other external factors that may impact the value of assets and liabilities. Additionally, internal factors such as operational performance, financial stability, and strategic decisions are also taken into account when assessing the risk of a material adjustment to the carrying amounts of assets and liabilities in the next annual reporting period.","paragraph 35(a) for which there is a significant risk of a material
+adjustment within the next annual reporting period to the carrying
+amounts of assets and liabilities reported in the related financial
+statements;
+(c)
+how the entity expects its financial position to change over the short,
+medium an...",1,CORRECT
+chunk_05_strategy_08,What types of investment and disposal plans does the entity need to disclose according to the document?,"The entity needs to disclose its plans for capital expenditure, major acquisitions and divestments, joint ventures, business transformation, innovation, new business areas, and asset retirements.","(i)
+its investment and disposal plans (for example, plans for capital
+expenditure, 
+major 
+acquisitions 
+and 
+divestments, 
+joint
+ventures, business transformation, innovation, new business
+areas, and asset retirements), including plans the entity is not
+contractually committed to; and
+(ii)
+its plan...",1,CORRECT
+chunk_05_strategy_09,What factors should an entity consider when determining the level of quantitative information to provide about sustainability-related risks or opportunities?,"An entity should consider factors such as the skills, capabilities, and resources available to prepare the disclosures, the identifiability of the financial effects of the risks or opportunities, and the level of measurement uncertainty involved in estimating those effects. Additionally, the entity should consider whether providing quantitative information would be useful in informing stakeholders about the sustainability-related risks or opportunities. If the entity lacks the skills, capabilities, or resources to provide quantitative information, it may not be necessary to do so.","(b)
+use an approach that is commensurate with the skills, capabilities and
+resources that are available to the entity for preparing those
+disclosures.
+An entity need not provide quantitative information about the current or
+anticipated financial effects of a sustainability-related risk or opportunit...",1,CORRECT
+chunk_05_strategy_10,Why does the entity need to provide qualitative information about financial effects related to sustainability risks or opportunities if quantitative information is not provided?,"Entity needs to provide qualitative information about financial effects related to sustainability risks or opportunities if quantitative information is not provided in order to explain the potential impact on the financial statements. This qualitative information helps stakeholders understand the nature and significance of the sustainability-related risks or opportunities, even if specific numerical data is not available. By identifying line items, totals, and subtotals within the financial statements that are likely to be affected, the entity can provide a more comprehensive picture of how sustainability factors may impact its financial performance.","risk or opportunity applying the criteria set out in paragraphs 38–39, the
+entity shall:
+(a)
+explain why it has not provided quantitative information;
+(b)
+provide qualitative information about those financial effects, including
+identifying line items, totals and subtotals within the related financia...",1,CORRECT
+chunk_05_strategy_11,What information should an entity disclose in order to enable users of general purpose financial reports to understand its capacity to adjust to uncertainties arising from sustainability-related risks?,"An entity should disclose a qualitative and, if applicable, quantitative assessment of the resilience of its strategy and business model in relation to its sustainability-related risks. This includes information about how the assessment was carried out and its time horizon. When providing quantitative information, an entity may disclose a single amount or a range.","(c)
+provide quantitative information about the combined financial effects
+of that sustainability-related risk or opportunity with other
+sustainability-related risks or opportunities and other factors unless
+the entity determines that quantitative information about the
+combined financial effects woul...",1,CORRECT
+chunk_05_strategy_12,어떤 유형의 지속가능성 관련 위험에 대해 기업이 내성을 공개해야 하는 정보는 무엇인가요?,"문서에 명시된 내용에 따르면, 기업이 특정 지속가능성 관련 위험에 대한 내성을 공개할 때 어떤 정보를 공개해야 하는지에 대한 구체적인 내용은 명시되어 있지 않습니다. 해당 문서를 참고하여 구체적인 정보를 확인해야 합니다.","information an entity is required to disclose about its resilience to specific
+sustainability-related risks and how to prepare those disclosures, including
+whether a scenario analysis is required....",1,CORRECT
+chunk_06_risk_01,"What information should an entity disclose regarding its processes and policies for identifying, assessing, prioritizing, and monitoring sustainability-related risks?","An entity should disclose information about the processes and related policies it uses to identify, assess, prioritize, and monitor sustainability-related risks. This includes information about the inputs and parameters used, such as data sources and the scope of operations covered in the processes. The entity should also disclose whether and how it uses scenario analysis to inform its identification of sustainability-related risks.","Risk management
+The objective of sustainability-related financial disclosures on risk
+management is to enable users of general purpose financial reports:
+(a)
+to understand an entity’s processes to identify, assess, prioritise and
+monitor sustainability-related risks and opportunities, including
+whet...",1,CORRECT
+chunk_06_risk_02,"How does the entity assess the nature, likelihood, and magnitude of sustainability-related risks?","The entity assesses the nature, likelihood, and magnitude of sustainability-related risks by considering qualitative factors, quantitative thresholds, or other criteria as outlined in the document. This assessment helps the entity understand the potential impact of these risks on its operations and financial performance.","(iii)
+how the entity assesses the nature, likelihood and magnitude of
+the effects of those risks (for example, whether the entity
+considers qualitative factors, quantitative thresholds or other
+criteria);
+(iv)
+whether and how the entity prioritises sustainability-related
+risks relative to other type...",1,CORRECT
+chunk_06_risk_03,"How does the entity monitor sustainability-related risks and opportunities, and are these processes integrated into the overall risk management process?","The entity monitors sustainability-related risks by identifying, assessing, prioritizing, and monitoring them using specific processes outlined in the document. These processes are also used to identify, assess, prioritize, and monitor sustainability-related opportunities. The entity has changed its processes compared to the previous reporting period to improve effectiveness. These processes are integrated into and inform the entity's overall risk management process.","(v)
+how the entity monitors sustainability-related risks; and
+(vi)
+whether and how the entity has changed the processes it uses
+compared with the previous reporting period;
+(b)
+the processes the entity uses to identify, assess, prioritise and monitor
+sustainability-related opportunities; and
+(c)
+the...",1,CORRECT
+chunk_07_metrics_01,What is the objective of sustainability-related financial disclosures on metrics and targets?,"The objective of sustainability-related financial disclosures on metrics and targets is to enable users of general purpose financial reports to understand an entity’s performance in relation to its sustainability-related risks and opportunities, including progress towards any targets the entity has set, and any targets it is required to meet by law or regulation.","Metrics and targets
+The objective of sustainability-related financial disclosures on metrics and
+targets is to enable users of general purpose financial reports to
+understand an entity’s performance in relation to its sustainability-related
+risks and opportunities, including progress towards any tar...",1,CORRECT
+chunk_07_metrics_02,What information should an entity disclose if it develops its own metric for sustainability disclosure?,"An entity should disclose information about how the metric is defined, including whether it is derived by adjusting a metric taken from a source other than IFRS Sustainability Disclosure Standards. If so, the entity should specify which source and how the metric disclosed by the entity differs from the metric specified in that source.","regulation.
+In the absence of an IFRS Sustainability Disclosure Standard that specifically
+applies to a sustainability-related risk or opportunity, an entity shall apply
+paragraphs 57–58 to identify applicable metrics.
+Metrics disclosed by an entity applying paragraphs 45–46 shall include
+metrics as...",1,CORRECT
+chunk_07_metrics_03,IFRS Foundation이 무엇을 개발하고 있는가?,IFRS Foundation은 지속가능성 공개 기준을 개발하고 있습니다.,"45
+46
+47
+48
+49
+50
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+15...",1,CORRECT
+chunk_07_metrics_04,What information should an entity disclose about the targets it has set to monitor progress towards achieving its strategic goals?,"An entity should disclose the metric used to set the target and monitor progress, the specific quantitative or qualitative target set or required to meet, the period over which the target applies, the base period from which progress is measured, any milestones and interim targets.","(b)
+whether the metric is an absolute measure, a measure expressed in
+relation to another metric or a qualitative measure (such as a red,
+amber, green—or RAG—status);
+(c)
+whether the metric is validated by a third party and, if so, which party;
+and
+(d)
+the method used to calculate the metric and the...",1,CORRECT
+chunk_07_metrics_05,How does the entity ensure consistency in the definition and calculation of metrics over time?,"The entity ensures consistency in the definition and calculation of metrics over time by labeling and defining metrics and targets using meaningful, clear, and precise names and descriptions. Additionally, if a metric is redefined or replaced, the entity shall apply paragraph B52 to ensure consistency. This helps to maintain a consistent approach to setting targets and monitoring progress towards reaching them.","(f)
+performance against each target and an analysis of trends or changes
+in the entity’s performance; and
+(g)
+any revisions to the target and an explanation for those revisions.
+The definition and calculation of metrics, including metrics used to set the
+entity’s targets and monitor progress towards...",1,CORRECT
+chunk_08_general_01,What standards should an entity apply in identifying sustainability-related risks and opportunities that could affect its prospects?,"An entity should apply IFRS Sustainability Disclosure Standards in identifying sustainability-related risks and opportunities that could affect its prospects. Additionally, the entity should refer to and consider the applicability of the disclosure topics in the SASB Standards. The entity might conclude that the disclosure topics in the SASB Standards are not applicable in its circumstances.","General requirements
+Sources of guidance
+Identifying sustainability-related risks and opportunities
+In identifying sustainability-related risks and opportunities that could
+reasonably be expected to affect an entity’s prospects, an entity shall apply
+IFRS Sustainability Disclosure Standards.
+In addi...",1,CORRECT
+chunk_08_general_02,What standards should an entity consider when identifying applicable disclosure requirements for sustainability-related risks or opportunities?,"An entity should consider the CDSB Framework Application Guidance for Water-related Disclosures, the CDSB Framework Application Guidance for Biodiversity-related Disclosures, the most recent pronouncements of other standard-setting bodies designed to meet the information needs of users of general purpose financial reports, and the sustainability-related risks and opportunities identified by entities operating in the same industry(s) or geographical region(s). Additionally, the entity should apply the IFRS Sustainability Disclosure Standard that specifically applies to the sustainability-related risk or opportunity in question.","(b)
+an entity may refer to and consider the applicability of:
+(i)
+the CDSB Framework Application Guidance for Water-related
+Disclosures and the CDSB Framework Application Guidance for
+Biodiversity-related Disclosures (collectively referred to as
+‘CDSB Framework Application Guidance’);
+(ii)
+the most ...",1,CORRECT
+chunk_08_general_03,What guidance should an entity refer to when identifying information related to sustainability risks or opportunities in the absence of an IFRS Sustainability Disclosure Standard?,"An entity should refer to and consider the applicability of the metrics associated with the disclosure topics included in the SASB Standards. Additionally, the entity may refer to and consider the applicability of the CDSB Framework Application Guidance and the most recent pronouncements of other standard-setting bodies, as long as these sources do not conflict with IFRS Sustainability Disclosure Standards.","opportunity.
+In the absence of an IFRS Sustainability Disclosure Standard that specifically
+applies to a sustainability-related risk or opportunity, an entity shall apply
+judgement to identify information that:
+(a)
+is relevant to the decision-making of users of general purpose financial
+reports; and...",1,CORRECT
+chunk_08_general_04,어떤 종류의 정보가 일반 목적의 재무 보고서 사용자들의 정보 요구를 충족시키기 위해 설계된 요구사항을 충족시키기 위해 몸체가 설계되었는가?,일반 목적의 재무 보고서 사용자들의 정보 요구를 충족시키기 위해 설계된 요구사항을 충족시키기 위해 몸체가 설계된 정보는 bodies입니다.,"bodies whose requirements are designed to meet the
+information needs of users of general purpose financial reports;
+and
+(iii)
+the information, including metrics, disclosed by entities that
+operate in the same industry(s) or geographical region(s).
+56
+57
+58
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© ...",1,CORRECT
+chunk_08_general_05,"Where should an entity disclose information about the specific standards, pronouncements, industry practice, and other sources of guidance it has applied in preparing its sustainability-related financial disclosures?","An entity should disclose this information in its sustainability-related financial disclosures, specifically identifying the specific standards, pronouncements, industry practice, and other sources of guidance that were applied in preparing the disclosures. This information should also include any disclosure topics in the SASB Standards and the industry(s) specified in the IFRS Sustainability Disclosure Standards or other sources of guidance that were used.","(c)
+an entity may—to the extent that these sources assist the entity in
+meeting the objective of this Standard (see paragraphs 1–4) and do not
+conflict with IFRS Sustainability Disclosure Standards—refer to and
+consider the applicability of the sources specified in Appendix C.
+Disclosure of informat...",1,CORRECT
+chunk_08_general_06,Where are the possible locations in an entity's general purpose financial reports to disclose sustainability-related financial information according to IFRS Sustainability Disclosure Standards?,"An entity can disclose sustainability-related financial information in its management commentary or a similar report that forms part of its general purpose financial reports. This report may be known by various names such as 'management report', 'management's discussion and analysis', 'operating and financial review', 'integrated report', or 'strategic report'.","An entity is required to provide disclosures required by IFRS Sustainability
+Disclosure Standards as part of its general purpose financial reports.
+Subject to any regulation or other requirements that apply to an entity, there
+are various possible locations in its general purpose financial reports i...",1,CORRECT
+chunk_08_general_07,어떤 경우에 기업이 지속가능성 관련 재무 공시에 다른 보고서를 교참하여 정보를 포함할 수 있는지 설명해 주세요.,"기업이 지속가능성 관련 재무 공시에 다른 보고서를 교참하여 정보를 포함할 수 있는 경우는 IFRS 지속가능성 공시 표준에 필요한 정보가 이미 다른 보고서에 포함되어 있을 때입니다. 이 경우, 기업은 해당 정보를 다른 보고서에 교참하여 포함할 수 있으며, 이때는 B45-B47 항목의 요구사항을 준수해야 합니다.","other requirements, such as information required by regulators. The entity
+shall ensure that the sustainability-related financial disclosures are clearly
+identifiable and not obscured by that additional information (see
+paragraph B27).
+Information required by an IFRS Sustainability Disclosure Standa...",1,CORRECT
+chunk_08_general_08,What information must an entity disclose if it provides sustainability-related financial disclosures for a period longer or shorter than 12 months?,"If an entity provides sustainability-related financial disclosures for a period longer or shorter than 12 months, they must disclose the following information:
+(a) the period covered by the sustainability-related financial disclosures;
+(b) the reason for using a longer or shorter period; and
+(c) the fact that the amounts disclosed in the sustainability-related financial disclosures are not entirely comparable.","Timing of reporting
+An entity shall report its sustainability-related financial disclosures at the
+same time as its related financial statements. The entity’s sustainability-
+related financial disclosures shall cover the same reporting period as the
+related financial statements.
+Normally, an entity ...",1,CORRECT
+chunk_08_general_09,What actions should an entity take if they receive new information about conditions that existed at the end of the reporting period before the sustainability-related financial disclosures are authorized for issue?,"If an entity receives new information about conditions that existed at the end of the reporting period before the sustainability-related financial disclosures are authorized for issue, they should update the disclosures that relate to those conditions in the light of the new information. This is to ensure that the disclosures are as accurate and up-to-date as possible for the primary users of general purpose financial reports.","If, after the end of the reporting period but before the date on which the
+sustainability-related financial disclosures are authorised for issue, an entity
+receives information about conditions that existed at the end of the reporting
+period, it shall update disclosures that relate to those conditio...",1,CORRECT
+chunk_08_general_10,어떤 조직이 재무 보고서를 발행해야 하는지에 대한 요구 사항은 누가 결정하나요?,"주식 거래소, 규제기관 및 회계 기관이 공개적으로 거래되는 채무 또는 자본 증권을 발행하는 기관에게 중간 일반 목적 재무 보고서를 발행할 것을 요구할 수 있습니다.","regulators, stock exchanges and accountancy bodies may require entities
+whose debt or equity securities are publicly traded to publish interim general
+purpose financial reports. If an entity is required or elects to publish interim
+sustainability-related 
+financial 
+disclosures 
+in 
+accordance 
+with...",1,CORRECT
+chunk_08_general_11,What is required for an entity to make an explicit and unreserved statement of compliance with IFRS Sustainability Disclosure Standards?,An entity must ensure that their sustainability-related financial disclosures comply with all the requirements of IFRS Sustainability Disclosure Standards in order to make an explicit and unreserved statement of compliance. They should not describe their disclosures as complying with the standards unless they meet all the requirements.,"descriptive sustainability-related financial information (see paragraphs
+B49–B59).
+Amounts reported in sustainability-related financial disclosures might relate,
+for example, to metrics and targets or to current and anticipated financial
+effects of sustainability-related risks and opportunities.
+Sta...",1,CORRECT
+chunk_08_general_12,What does the Standard allow entities to do in terms of disclosing information about a sustainability-related opportunity if it is commercially sensitive?,"The Standard allows entities to be relieved from disclosing information about a sustainability-related opportunity if it is commercially sensitive, as described in paragraphs B34-B37 of the Standard.","Standard also relieves an entity from disclosing information about a
+sustainability-related opportunity otherwise required by an IFRS Sustainability
+Disclosure Standard if that information is commercially sensitive as described
+in this Standard (see paragraphs B34–B37). An entity using these exempti...",1,CORRECT
+chunk_09_judgements_01,"What types of judgements does an entity make in the process of preparing its sustainability-related financial disclosures, apart from those involving estimations of amounts?","In the process of preparing sustainability-related financial disclosures, an entity makes judgements in identifying sustainability-related risks and opportunities that could affect the entity's prospects, determining which sources of guidance to apply, and identifying material information to include in the disclosures.","Judgements
+An entity shall disclose information to enable users of general purpose
+financial reports to understand the judgements, apart from those involving
+estimations of amounts (see paragraph 77), that the entity has made in the
+process of preparing its sustainability-related financial disclosur...",1,CORRECT
+chunk_09_judgements_02,What are the general requirements for disclosure of sustainability-related financial information according to IFRS S1 as of June 2023?,The general requirements for disclosure of sustainability-related financial information according to IFRS S1 as of June 2023 include providing related financial disclosures.,"related financial disclosures; and
+71
+72
+73
+74
+75
+IFRS S1 GENERAL REQUIREMENTS FOR DISCLOSURE OF SUSTAINABILITY-
+RELATED FINANCIAL INFORMATION—JUNE 2023
+20
+© IFRS Foundation...",1,CORRECT
+chunk_09_judgements_03,어떤 상황이 중요하고 지속 가능성과 관련된 위험과 기회의 범위를 재평가해야 하는지 평가하는 방법은 무엇입니까?,"상황이 중요하고 지속 가능성과 관련된 위험과 기회의 범위를 재평가하기 위해서는 해당 상황이 조직의 가치 사슬 전체에 영향을 미치는지를 평가해야 합니다. 또한, Paragraph B11에 언급된 대로, 모든 영향을 받는 지속 가능성 관련 위험과 기회의 범위를 재평가해야 합니다.","(d)
+assessing whether an event or change in circumstances is significant
+and requires reassessment of the scope of all affected sustainability-
+related risks and opportunities throughout the entity’s value chain (see
+paragraph B11).
+Other IFRS Sustainability Disclosure Standards may require disclosu...",1,CORRECT
+chunk_10_uncertainty_01,What information should an entity disclose in order to help users of financial reports understand the uncertainties affecting the amounts reported in sustainability-related financial disclosures?,"An entity should disclose information about the amounts that are subject to a high level of measurement uncertainty. This includes identifying the sources of measurement uncertainty, such as the dependence of the amount on future events, measurement techniques, or data availability and quality from the entity's value chain. Additionally, the entity should disclose the assumptions, approximations, and judgments made in measuring the amount. This information will help users of financial reports understand the uncertainties affecting the amounts reported in sustainability-related financial disclosures.","Measurement uncertainty
+An entity shall disclose information to enable users of general purpose
+financial reports to understand the most significant uncertainties affecting
+the amounts reported in its sustainability-related financial disclosures.
+An entity shall:
+(a)
+identify the amounts that it has...",1,CORRECT
+chunk_10_uncertainty_02,What is the importance of using reasonable estimates in preparing sustainability-related financial disclosures according to the document?,"The importance of using reasonable estimates in preparing sustainability-related financial disclosures, according to the document, is that it is an essential part of the process. It allows for the inclusion of assumptions about possible future events with uncertain outcomes, which may be necessary for providing useful information. Even if there is a high level of measurement uncertainty, as long as the estimates are accurately described and explained, they can still provide valuable information. The disclosure of uncertainties affecting the amounts reported in sustainability-related financial disclosures is particularly important for estimates that require the entity's most difficult, subjective, or complex judgments. As the number of variables and assumptions increases, the judgments become more subjective and complex, and the uncertainty affecting the amounts reported also increases.","arises. In some cases, an estimate involves assumptions about possible future
+events with uncertain outcomes. The use of reasonable estimates is an
+essential part of preparing sustainability-related financial disclosures and does
+not undermine the usefulness of the information if the estimates are
+a...",1,CORRECT
+chunk_10_uncertainty_03,What factors contribute to the uncertainty surrounding sustainability-related financial disclosures that an entity may need to disclose?,"The factors contributing to the uncertainty surrounding sustainability-related financial disclosures that an entity may need to disclose include the sources of the information reported, the nature of the amount reported, and other circumstances specific to the entity's operations and industry.","The type and extent of the information an entity might need to disclose vary
+according to the nature of the amount reported in the sustainability-related
+financial disclosures—the sources of and the factors contributing to the
+uncertainty and other circumstances. Examples of the type of information ...",1,CORRECT
+chunk_10_uncertainty_04,"What information is required to be disclosed regarding the sensitivity of the disclosed amount to the methods, assumptions, and estimates underlying its calculation?","The information required to be disclosed regarding the sensitivity of the disclosed amount includes the reasons for the sensitivity, such as the nature of the assumption or other source of measurement uncertainty. Additionally, the expected resolution of an uncertainty and the range of reasonably possible outcomes for the disclosed amount should also be disclosed.","(a)
+the nature of the assumption or other source of measurement
+uncertainty;
+(b)
+the sensitivity of the disclosed amount to the methods, assumptions
+and estimates underlying its calculation, including the reasons for the
+sensitivity;
+(c)
+the expected resolution of an uncertainty and the range of rea...",1,CORRECT
+chunk_11_errors_01,What is the difference between corrections of errors and changes in estimates in an entity's sustainability-related financial disclosures?,"The difference between corrections of errors and changes in estimates in an entity's sustainability-related financial disclosures is that corrections of errors are related to omissions or misstatements in the entity's financial disclosures for prior periods, which arise from a failure to use or the misuse of reliable information that was available at the time of the disclosures. These errors are corrected by restating the comparative amounts for the prior period(s) disclosed. On the other hand, changes in estimates are approximations that may need to be revised as additional information becomes known. Estimates are not considered errors, but rather adjustments based on new information.","Errors
+An entity shall correct material prior period errors by restating the
+comparative amounts for the prior period(s) disclosed unless it is
+impracticable to do so.
+Prior period errors are omissions from and misstatements in the entity’s
+sustainability-related financial disclosures for one or mor...",1,CORRECT
+chunk_11_errors_02,어떤 날짜에 IFRS S1 GENERAL REQUIREMENTS FOR DISCLOSURE OF SUSTAINABILITY-RELATED FINANCIAL INFORMATION이 발표되었습니까?,IFRS S1 GENERAL REQUIREMENTS FOR DISCLOSURE OF SUSTAINABILITY-RELATED FINANCIAL INFORMATION은 2023년 6월에 발표되었습니다.,"82
+83
+84
+85
+86
+IFRS S1 GENERAL REQUIREMENTS FOR DISCLOSURE OF SUSTAINABILITY-
+RELATED FINANCIAL INFORMATION—JUNE 2023
+22
+© IFRS Foundation...",1,CORRECT
+chunk_12_appendix_a_01,What is the definition of a business model according to Appendix A of IFRS S1?,"An entity's business model is defined as its system of transforming inputs through its activities into outputs and outcomes that aim to fulfill the entity's strategic purposes and create value for the entity, ultimately generating cash flows over the short, medium, and long term.","Appendix A
+Defined terms
+This appendix is an integral part of IFRS S1 and has the same authority as the other parts of the
+Standard.
+business model
+An entity’s system of transforming inputs through its activities
+into outputs and outcomes that aims to fulfil the entity’s
+strategic purposes and creat...",1,CORRECT
+chunk_12_appendix_a_02,What is considered material information in the context of sustainability-related financial disclosures?,"In the context of sustainability-related financial disclosures, information is considered material if omitting, misstating, or obscuring that information could reasonably be expected to influence decisions that primary users of general purpose financial reports make on the basis of those reports, which include financial statements and sustainability-related financial disclosures.","(c)
+exercising rights to vote on, or otherwise influence, the
+entity’s management’s actions that affect the use of the
+entity’s economic resources.
+General purpose financial reports include—but are not
+restricted to—an entity’s general purpose financial statements
+and sustainability-related financia...",1,CORRECT
+chunk_12_appendix_a_03,Who are the primary users of general purpose financial reports according to the document?,"Existing and potential investors, lenders, and other creditors are the primary users of general purpose financial reports according to the document.","financial
+disclosures and which provide information about a specific
+reporting entity.
+primary users of
+general purpose
+financial reports
+(primary users)
+Existing and potential investors, lenders and other creditors.
+reporting entity
+An entity that is required, or chooses, to prepare general
+purpose...",1,CORRECT
+chunk_12_appendix_a_04,What is the definition of sustainability-related financial disclosures according to the document?,"A particular form of general purpose financial reports that provide information about the reporting entity’s sustainability-related risks and opportunities that could reasonably be expected to affect the entity’s cash flows, its access to finance or cost of capital over the short, medium or long term, including information about the entity’s governance, strategy and risk management in relation to those risks and opportunities, and related metrics and targets.","scenario analysis
+A process for identifying and assessing a potential range of
+outcomes of future events under conditions of uncertainty.
+sustainability-related
+financial disclosures
+A particular form of general purpose financial reports that
+provide information about the reporting entity’s sustaina...",1,CORRECT
+chunk_12_appendix_a_05,What are some of the components included in a value chain according to the document?,"Some of the components included in a value chain according to the document are interactions, resources, and relationships in the entity's operations (such as human resources), along its supply, marketing, and distribution channels (such as materials and service sourcing, and product and service sale and delivery), and the financing, geographical, geopolitical, and regulatory environments in which the entity operates.","A value chain encompasses the interactions, resources and
+relationships an entity uses and depends on to create its
+products or services from conception to delivery, consumption
+and 
+end-of-life, 
+including 
+interactions, 
+resources 
+and
+relationships in the entity’s operations, such as human
+resour...",1,CORRECT
+chunk_13_appendix_b_01,What types of sustainability-related risks and opportunities should an entity disclose information about according to this Standard?,"According to this Standard, an entity should disclose information about all sustainability-related risks and opportunities that could reasonably be expected to affect the entity’s cash flows, its access to finance, or cost of capital over the short, medium, or long term. These risks and opportunities should be related to the entity's prospects and arise from interactions between the entity and its stakeholders, society, the economy, and the natural environment throughout the entity’s value chain.","Appendix B
+Application guidance
+This appendix is an integral part of IFRS S1 and has the same authority as the other parts of the
+Standard.
+Sustainability-related risks and opportunities (paragraphs 11–12)
+This Standard requires an entity to disclose information about all
+sustainability-related risk...",1,CORRECT
+chunk_13_appendix_b_02,"How can an entity's interactions with the external environment impact its cash flows and access to finance over the short, medium, and long term?","An entity's interactions with the external environment can impact its cash flows and access to finance over the short, medium, and long term by affecting its resources and relationships throughout its value chain. For example, if an entity depends on a natural resource for its business model, such as water, the quality, availability, and affordability of that resource can directly impact the entity's operations and profitability. If the entity's activities lead to the degradation or depletion of that resource, it could face sustainability-related risks that may affect its cash flows and access to finance. Additionally, the entity's impact on the external environment can influence its reputation and relationships with stakeholders, which can also impact its ability to generate cash flows and secure financing in the short, medium, and long term.","the external environment in which the entity operates. These interactions
+take place within an interdependent system in which an entity both depends
+on resources and relationships throughout its value chain to generate cash
+flows and affects those resources and relationships through its activities a...",1,CORRECT
+chunk_13_appendix_b_03,What potential risks could create disruptions to an entity's operations and negatively affect its financial performance and position?,"Potential risks that could create disruptions to an entity's operations and negatively affect its financial performance and position include factors such as natural disasters, supply chain disruptions, regulatory changes, economic downturns, and cybersecurity breaches. These risks could impact the entity's ability to carry out its business activities effectively, resulting in decreased revenue, increased costs, and ultimately leading to a decline in financial performance and position.","activities and from other factors—could create a risk of disruption to the
+entity’s operations and affect the entity’s business model or strategy and could
+ultimately negatively affect the entity’s financial performance and financial
+position. In contrast, regeneration and preservation of that resou...",1,CORRECT
+chunk_13_appendix_b_04,"What is the relationship between the value that an entity creates, preserves, or erodes for others and the entity's ability to succeed and achieve its goals according to the IFRS Sustainability Disclosure Standards?","The relationship between the value that an entity creates, preserves, or erodes for others and the entity's ability to succeed and achieve its goals according to the IFRS Sustainability Disclosure Standards is that the entity's success and goal achievement are directly linked to the value it creates, preserves, or erodes for others. This means that the entity's ability to succeed is dependent on the impact it has on others in terms of value creation, preservation, or erosion.","relationship between the value the entity creates, preserves or erodes for
+others and the entity’s own ability to succeed and achieve its goals.
+B1
+B2
+B3
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+25...",1,CORRECT
+chunk_13_appendix_b_05,What are some examples of external resources and relationships that an entity may depend on according to the document?,"Some examples of external resources and relationships that an entity may depend on according to the document include materials and services the entity needs to access, as well as relationships with suppliers, distributors, and customers.","Resources and relationships that an entity depends on and affects by its
+activities and outputs can take various forms, such as natural, manufactured,
+intellectual, human, social or financial. They can be internal—such as the
+entity’s workforce, its know-how or its organisational processes—or they c...",1,CORRECT
+chunk_13_appendix_b_06,What information should an entity use to identify sustainability-related risks and opportunities that could affect its prospects?,"An entity should use all reasonable and supportable information that is available to the entity at the reporting date without undue cost or effort to identify sustainability-related risks and opportunities that could affect its prospects. This information should include factors such as the disposal of the entity’s products, the entity’s sources of finance and investments, and the sustainability-related risks and opportunities faced by the entity's business partners throughout its value chain.","disposal of the entity’s products; and the entity’s sources of finance and its
+investments, including investments in associates and joint ventures. If the
+entity’s business partners throughout its value chain face sustainability-
+related risks and opportunities, the entity could be exposed to relate...",1,CORRECT
+chunk_13_appendix_b_07,What factors should reasonable and supportable information used in preparing sustainability-related financial disclosures cover?,"Reasonable and supportable information used in preparing sustainability-related financial disclosures should cover factors that are specific to the entity as well as general conditions in the external environment. This information may include past events, current conditions, and forecasts of future conditions that could reasonably be expected to affect an entity's prospects.","reasonably be expected to affect its prospects, an entity shall apply the
+requirements on sources of guidance in paragraphs 54–55.
+Reasonable and supportable information
+Reasonable and supportable information used by an entity in preparing its
+sustainability-related financial disclosures shall cover...",1,CORRECT
+chunk_13_appendix_b_08,What are some possible data sources that an entity may use in identifying sustainability-related risks and opportunities?,"Possible data sources that an entity may use in identifying sustainability-related risks and opportunities include the entity's risk management processes, industry and peer group experience, and external ratings, reports, and statistics.","An entity may use various sources of data that may be both internal and
+external. Possible data sources include the entity’s risk management
+processes; industry and peer group experience; and external ratings, reports
+and statistics. Information that is used by the entity in preparing its financial
+...",1,CORRECT
+chunk_13_appendix_b_09,What should an entity do in the event of a significant change in circumstances or a significant event affecting sustainability-related risks and opportunities throughout its value chain?,"In the event of a significant change in circumstances or a significant event affecting sustainability-related risks and opportunities throughout its value chain, an entity should reassess the scope of all affected sustainability-related risks and opportunities. This reassessment should take into account any changes in the entity's value chain, business model, activities, or corporate structure that may impact sustainability factors. The entity should also consider any changes in what is deemed important to users of general purpose financial reports. Additionally, the entity should monitor and address any significant changes in greenhouse gas emissions or other sustainability-related factors within its value chain.","Reassessment of the scope of sustainability-related risks
+and opportunities throughout the value chain
+On the occurrence of a significant event or significant change in
+circumstances, an entity shall reassess the scope of all affected sustainability-
+related risks and opportunities throughout its va...",1,CORRECT
+chunk_13_appendix_b_10,What criteria does an entity use to determine the materiality of sustainability-related risks and opportunities that need to be disclosed?,"An entity uses the criteria of whether omitting, misstating, or obscuring information about sustainability-related risks and opportunities could reasonably be expected to influence decisions of primary users. This judgment is made in relation to the entity's prospects.","the entity’s value chain); and
+(c)
+a significant change in an entity’s exposure to sustainability-related
+risks and opportunities (for example, a supplier in the entity’s value
+chain is affected by the introduction of a new regulation that the
+entity had not anticipated).
+An entity is permitted, but...",1,CORRECT
+chunk_13_appendix_b_11,"What are the decisions of primary users that relate to providing resources to the entity, as described in the document?","The decisions of primary users that relate to providing resources to the entity include buying, selling or holding equity and debt instruments; providing or selling loans and other forms of credit; and exercising rights to vote on, or otherwise influence, the entity’s management’s actions that affect the use of the entity’s economic resources.","general purpose financial reports, which provide information about a specific
+reporting entity.
+The decisions of primary users relate to providing resources to the entity and
+involve decisions about:
+(a)
+buying, selling or holding equity and debt instruments;
+(b)
+providing or selling loans and other...",1,CORRECT
+chunk_13_appendix_b_12,What characteristics of primary users are considered when assessing whether information could reasonably be expected to influence their decisions?,"When assessing whether information could reasonably be expected to influence the decisions made by primary users, characteristics such as their reasonable knowledge of business and economic activities, their diligence in reviewing and analyzing information, and their potential need to seek the aid of an adviser to understand sustainability-related financial information are considered. Additionally, the individual primary users may have different and sometimes conflicting information needs and desires, which should also be taken into account.","individual(s).
+Assessing whether information could reasonably be expected to influence the
+decisions made by primary users requires consideration of the characteristics
+of those users and of the entity’s own circumstances.
+Sustainability-related financial disclosures are prepared for primary users w...",1,CORRECT
+chunk_13_appendix_b_13,What sources of guidance should an entity apply in the absence of an IFRS Sustainability Disclosure Standard that specifically applies to a sustainability-related risk or opportunity?,"In the absence of an IFRS Sustainability Disclosure Standard that specifically applies to a sustainability-related risk or opportunity, an entity should apply the requirements on sources of guidance specified in paragraphs 57–58 of the IFRS Sustainability Disclosure Standard. These sources specify information, including metrics, that may be relevant to a particular sustainability-related risk or opportunity, to a particular industry, or in specified circumstances.","does not specify any thresholds for materiality or predetermine what would
+be material in a particular situation.
+To identify material information about a sustainability-related risk or
+opportunity, an entity shall apply, as the starting point, the requirements of
+the IFRS Sustainability Disclosure ...",1,CORRECT
+chunk_13_appendix_b_14,What factors should an entity consider when assessing whether information about possible future events with uncertain outcomes is material in the context of its sustainability-related financial disclosures?,"An entity should consider the potential effects of the events on the amount, timing, and uncertainty of the entity's future cash flows over the short, medium, and long term (referred to as 'the possible outcome'). Additionally, the entity should consider both quantitative and qualitative factors, such as the magnitude and nature of the effect of a sustainability-related risk or opportunity on the entity.","An entity shall assess whether the information identified in applying
+paragraph B20, either individually or in combination with other information,
+is material in the context of the entity’s sustainability-related financial
+disclosures taken as a whole. In assessing whether information is material, a...",1,CORRECT
+chunk_13_appendix_b_15,"어떤 조건을 고려할 때, 가능한 결과의 범위와 가능한 결과의 발생 가능성을 고려해야 하는가?","어떤 조건을 고려할 때, 가능한 결과의 범위와 가능한 결과의 발생 가능성을 고려해야 합니다. 가능한 결과를 고려할 때, 모든 관련 사실과 상황을 고려해야 합니다. 가능한 미래 사건에 대한 정보는 잠재적인 영향이 상당하고 사건이 발생할 가능성이 높다면 더 중요하게 여겨질 수 있습니다. 그러나, 낮은 확률과 높은 영향을 가진 결과에 대한 정보가 다른 낮은 확률과 높은 영향을 가진 결과에 대한 정보와 개별적으로나 결합하여 중요할 수 있는지도 고려해야 합니다. 예를 들어, 기업이 여러 가지 지속가능성 관련 위험에 노출될 수 있으며, 각각의 위험이 기업의 공급망에 중단을 일으킬 수 있는 동일한 유형의 중단을 초래할 수 있습니다. 개별 위험 원천에 대한 정보는 해당 원천에서의 중단이 발생할 가능성이 매우 낮다면 중요하지 않을 수 있습니다. 그러나, 정보가 중요할 수 있습니다.","(b)
+the range of possible outcomes and the likelihood of the possible
+outcomes within that range.
+When considering possible outcomes, an entity shall consider all pertinent
+facts and circumstances. Information about a possible future event is more
+likely to be judged as being material if the potenti...",1,CORRECT
+chunk_13_appendix_b_16,What factors determine whether information about a possible future event is considered material for disclosure in financial reports according to the document?,"The factors that determine whether information about a possible future event is considered material for disclosure in financial reports according to the document include the expected impact on an entity's cash flows, the timing of the event (sooner events are more likely to be judged material), and whether the information is expected to influence primary users' decisions regardless of the magnitude of the potential effects or timing of the event. Additionally, information about sustainability-related risks or opportunities that are highly scrutinized by primary users may also be considered material for disclosure.","about the aggregate risk—the risk of supply chain disruption from all sources
+—might be material.
+If a possible future event is expected to affect an entity’s cash flows, but only
+many years in the future, information about that event is usually less likely to
+be judged material than information abo...",1,CORRECT
+chunk_13_appendix_b_17,IFRS 지속가능성 공시 표준에 명시된 요구 사항이 최소 요구 사항으로 설명되더라도 기업은 어떻게 해야 합니까?,"기업은 IFRS 지속가능성 공시 표준에 명시된 요구 사항을 최소 요구 사항으로 간주하고, 해당 요구 사항을 준수하여 지속가능성에 대한 정보를 공시해야 합니다. 추가적인 정보나 요구 사항이 있을 경우, 해당 내용을 충족시키기 위해 노력해야 합니다.","the case even if the IFRS Sustainability Disclosure Standard contains a list of
+specific requirements or describes them as minimum requirements.
+B21
+B22
+B23
+B24
+B25
+IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+© IFRS Foundation
+29...",1,CORRECT
+chunk_13_appendix_b_18,What are some examples of circumstances that might result in material information being obscured according to the document?,"Some examples of circumstances that might result in material information being obscured according to the document include:
+(a) material information is not clearly distinguished from additional information that is not material;
+(b)","An entity shall disclose additional information when compliance with the
+specifically applicable requirements in an IFRS Sustainability Disclosure
+Standard is insufficient to enable users of general purpose financial reports to
+understand the effects of sustainability-related risks and opportunities...",1,CORRECT
+chunk_13_appendix_b_19,How does an entity ensure that material information is not hidden by immaterial information in sustainability-related financial disclosures?,"An entity can ensure that material information is not hidden by immaterial information in sustainability-related financial disclosures by reassessing its materiality judgements at each reporting date to take account of changed circumstances and assumptions. This allows the entity to adjust their disclosures to ensure that material information is clearly presented and not obscured by irrelevant or immaterial information. Additionally, the entity can ensure that the language used in the disclosures is clear and specific, avoiding vagueness or ambiguity that could potentially hide material information. Regular reviews and updates of the disclosures can help to maintain transparency and clarity in presenting sustainability-related information.","(b)
+material information is disclosed in the sustainability-related financial
+disclosures, but the language used is vague or unclear;
+(c)
+material information about a sustainability-related risk or opportunity
+is scattered throughout the sustainability-related financial disclosures;
+(d)
+items of inf...",1,CORRECT
+chunk_13_appendix_b_20,What factors should an entity consider when deciding how to aggregate and disaggregate information in its sustainability-related financial disclosures according to IFRS Sustainability Disclosure Standards?,An entity should consider all facts and circumstances when deciding how to aggregate and disaggregate information in its sustainability-related financial disclosures according to IFRS Sustainability Disclosure Standards. The entity should not reduce the understandability of its disclosures by obscuring material information with immaterial information or by aggregating material items of information that are dissimilar to each other.,"types of information included in an entity’s sustainability-related financial
+disclosures for prior periods might no longer be material. Conversely, some
+types of information not previously disclosed might become material.
+Aggregation and disaggregation
+When an entity applies IFRS Sustainability Dis...",1,CORRECT
+chunk_13_appendix_b_21,What factors should an entity consider when deciding whether to aggregate or disaggregate information about sustainability-related risks and opportunities?,"An entity should consider whether aggregating or disaggregating information would obscure material information. They should also consider whether the items of information have shared characteristics that would make aggregation meaningful. Additionally, the entity should consider factors such as geographical location or the geopolitical environment when deciding whether to disaggregate information. For example, they may need to disaggregate information about the use of water to distinguish between sources in abundant areas and water-stressed areas to ensure that material information is not obscured. Finally, the entity should also consider any requirements specified by law or regulation regarding the disclosure of sustainability-related information in their financial reports.","An entity shall not aggregate information if doing so would obscure
+information that is material. Information shall be aggregated if items of
+information have shared characteristics and shall not be aggregated if they do
+not have shared characteristics. The entity might need to disaggregate
+informat...",1,CORRECT
+chunk_13_appendix_b_22,What should an entity do if it is prohibited by law or regulation from disclosing material information related to sustainability?,"If an entity is prohibited by law or regulation from disclosing material information related to sustainability, it should identify the type of information not disclosed and explain the source of the restriction. This ensures transparency and compliance with legal requirements while still providing as much information as possible within the constraints of the law or regulation.","related financial disclosures information to meet legal or regulatory
+requirements, even if that information is not material. However, such
+information shall not obscure material information.
+An entity shall disclose material sustainability-related financial information,
+even if law or regulation pe...",1,CORRECT
+chunk_13_appendix_b_23,Under what circumstances does an entity qualify for the exemption specified in paragraph B34 of the IFRS Sustainability Disclosure Standards?,"An entity qualifies for the exemption specified in paragraph B34 if, and only if: 
+(a) information about the sustainability-related opportunity is not already publicly available; 
+(b) disclosure of that information could reasonably be expected to prejudice seriously the economic benefits the entity would otherwise be able to realize in pursuing the opportunity; and 
+(c) the entity has determined that it is impossible to disclose that information in a manner that would enable the entity to meet the objectives of the disclosure requirements without prejudicing seriously the economic benefits the entity would otherwise be able to realize in pursuing the opportunity.","sustainability-related financial disclosures. Such an omission is permitted even
+if information is otherwise required by an IFRS Sustainability Disclosure
+Standard and the information is material.
+An entity qualifies for the exemption specified in paragraph B34 if, and only
+if:
+(a)
+information about...",1,CORRECT
+chunk_13_appendix_b_24,What is required of an entity if it elects to use the exemption specified in paragraph B34 for omitting information in sustainability-related financial disclosures?,"If an entity elects to use the exemption specified in paragraph B34 for omitting information in sustainability-related financial disclosures, the entity is required to disclose the fact that it has used the exemption for each item of information omitted. Additionally, the entity must reassess, at each reporting date, whether the information qualifies for the exemption. It is important to note that the entity is prohibited from using this exemption in relation to a sustainability-related risk or as a basis for broad non-disclosure of sustainability-related financial information.","If an entity elects to use the exemption specified in paragraph B34, the entity
+shall, for each item of information omitted:
+(a)
+disclose the fact that it has used the exemption; and
+(b)
+reassess, at each reporting date, whether the information qualifies for
+the exemption.
+An entity is prohibited fr...",1,CORRECT
+chunk_13_appendix_b_25,How does connected information in financial reports help users understand the relationship between sustainability-related risks and opportunities and the financial performance of a company?,"Connected information in financial reports helps users understand the relationship between sustainability-related risks and opportunities and the financial performance of a company by providing insight into the connections between these factors. For example, if an entity pursued a particular sustainability-related opportunity and that resulted in an increase in the entity's revenue, connected information will depict the relationship between the entity's strategy and its financial performance. This allows users to see how sustainability initiatives impact the financial outcomes of the company over the short, medium, and long term. By providing this information in a clear and understandable manner, users can better assess the effects of sustainability-related risks and opportunities on the cash flows, access to finance, and cost of capital of the company and its subsidiaries.","purpose financial reports to understand the effects of the sustainability-
+related risks and opportunities on the cash flows, access to finance and cost of
+capital over the short, medium and long term for the parent and its
+subsidiaries.
+Connected information (paragraphs 21–24)
+Paragraph 21 requires...",1,CORRECT
+chunk_13_appendix_b_26,What type of information should be included in connected information according to the document?,"Connected information should include connections between various types of information about a particular sustainability-related risk or opportunity. This can include information about trade-offs between sustainability-related risks, the relationship between risks and the entity's strategy, commitments to sustainability-related targets, and how those commitments may affect the entity's financial position or performance.","(b)
+if an entity identified a trade-off between two sustainability-related
+risks it is exposed to and took action on the basis of its assessment of
+that trade-off, connected information will depict the relationship
+between those risks and the entity’s strategy; and
+(c)
+if an entity committed to a pa...",1,CORRECT
+chunk_13_appendix_b_27,What are some examples of connections that should be drawn between disclosures according to the document?,"Some examples of connections that should be drawn between disclosures according to the document include connections between disclosures on governance, strategy, and risk management, connections between narrative information and quantitative information, and connections between disclosures about various sustainability-related risks and opportunities. Additionally, connections should be drawn between related metrics and targets, information in the financial statements, and explanations and cross-references should be provided in a clear and concise manner.","(i)
+between 
+disclosures 
+on 
+governance, 
+strategy 
+and 
+risk
+management; and
+(ii)
+between narrative information and quantitative information
+(including related metrics and targets and information in the
+related financial statements).
+(b)
+connections between disclosures about various sustainability...",1,CORRECT
+chunk_13_appendix_b_28,What information is required to be disclosed according to standards regarding the preparation of an entity's sustainability-related financial disclosures?,"Standards require the disclosure of common items of information and information about significant differences between the data and assumptions used in preparing the entity’s sustainability-related financial disclosures and the data and assumptions used in preparing the related financial statements. This may include explaining the effect or likely effect of the entity's strategy on its financial statements and financial planning, how the strategy relates to the metrics used to measure progress against targets, and how the use of natural resources or changes within the supply chain could impact sustainability-related risks and opportunities. The entity may also need to link information about its use of natural resources or changes within its supply chain to other relevant information.","Standards require the disclosure of common items of information; and
+(c)
+disclose information about significant differences between the data
+and assumptions used in preparing the entity’s sustainability-related
+financial disclosures and the data and assumptions used in preparing
+the related financia...",1,CORRECT
+chunk_13_appendix_b_29,"What are some examples of connected information that an entity might need to explain in relation to its sustainability-related risks and opportunities and its strategy on its financial position, financial performance, and cash flows over the short, medium, and long term?","Some examples of connected information that an entity might need to explain include the combined effects of sustainability-related risks and opportunities on its financial position, financial performance, and cash flows over the short, medium, and long term. For instance, the entity may need to clarify how consumer preferences for lower-carbon alternatives could impact demand for its products and how its strategic response, such as closing a major factory, could affect its workforce.","current or anticipated financial effects on the entity’s production costs, its
+strategic response to mitigate those risks and its related investment in new
+assets. The entity might need to link narrative information to the related
+metrics and targets and to information in the related financial state...",1,CORRECT
+chunk_13_appendix_b_30,"What are some examples of alternatives that an entity may evaluate in response to its sustainability-related risks and opportunities, and how does the entity consider the trade-offs between these risks and opportunities?","Some examples of alternatives that an entity may evaluate in response to its sustainability-related risks and opportunities include restructuring operations, implementing new technologies or processes to reduce environmental impact, investing in renewable energy sources, and developing partnerships with local communities for sustainable development projects. 
+
+The entity considers the trade-offs between these risks and opportunities by weighing the potential benefits and drawbacks of each alternative. For example, a decision to restructure operations in response to a sustainability-related risk may have short-term costs but long-term benefits in terms of reducing environmental impact. The entity must consider how each alternative aligns with its overall sustainability goals and objectives, and make decisions that balance the potential risks and opportunities in the most effective way.","and local communities, and the effect of such a closure on the useful
+lives of its assets and on impairment assessments.
+(b)
+a description of the alternatives that an entity evaluated in setting its
+strategy 
+in 
+response 
+to 
+its 
+sustainability-related 
+risks 
+and
+opportunities, including a descri...",1,CORRECT
+chunk_13_appendix_b_31,What responsibilities do the body or individual authorizing general purpose financial reports have when including information by cross-reference in sustainability-related financial disclosures?,"The body or individual authorizing general purpose financial reports has the responsibility to ensure that the information included by cross-reference in sustainability-related financial disclosures is relevant, representationally faithful, comparable, verifiable, timely, and understandable. They also take the same responsibility for the information included by cross-reference as they do for the information included directly, ensuring that the complete set of sustainability-related financial disclosures is not made less understandable by including information by cross-reference.","disclosures by cross-reference, provided that:
+(a)
+the cross-referenced information is available on the same terms and at
+the same time as the sustainability-related financial disclosures; and
+(b)
+the complete set of sustainability-related financial disclosures is not
+made less understandable by inc...",1,CORRECT
+chunk_13_appendix_b_32,What is the purpose of interim sustainability-related financial disclosures according to the document?,"The purpose of interim sustainability-related financial disclosures is to provide an update on the latest complete set of annual disclosures of sustainability-related financial information. These disclosures focus on new information, events and circumstances and do not duplicate information previously reported.","(a)
+the sustainability-related financial disclosures shall clearly identify the
+report within which that information is located and explain how to
+access that report; and
+(b)
+the cross-reference shall be to a precisely specified part of that report.
+Interim reporting (paragraph 69)
+In the interest o...",1,CORRECT
+chunk_13_appendix_b_33,어떤 날짜를 기준으로 RELATED FINANCIAL INFORMATION이 제공되었는지 알려주세요.,RELATED FINANCIAL INFORMATION은 2023년 6월을 기준으로 제공되었습니다.,"RELATED FINANCIAL INFORMATION—JUNE 2023
+34
+© IFRS Foundation...",1,CORRECT
+chunk_13_appendix_b_34,What is required in terms of comparative information in sustainability-related financial disclosures according to the Standard mentioned in the document?,"According to the Standard mentioned in the document, an entity is required to disclose comparative information in respect of the preceding period for all amounts disclosed in the reporting period in sustainability-related financial disclosures.","provided in interim sustainability-related financial disclosures may be more
+condensed than in annual sustainability-related financial disclosures, an
+entity is not prohibited or discouraged from publishing a complete set of
+sustainability-related financial disclosures as specified in this Standard ...",1,CORRECT
+chunk_13_appendix_b_35,What are the circumstances under which an entity is not required to disclose a revised comparative amount according to the document?,"An entity is not required to disclose a revised comparative amount if it is impracticable to do so or if the metric is forward-looking. Forward-looking metrics relate to possible future transactions, events, and other conditions. The entity is permitted to revise a comparative amount for a forward-looking metric if doing so does not involve the use of hindsight.","information;
+(b)
+disclose the difference between the amount disclosed in the preceding
+period and the revised comparative amount; and
+(c)
+explain the reasons for revising the comparative amount.
+In applying the requirement in paragraph B50, an entity need not disclose a
+revised comparative amount:
+(...",1,CORRECT
+chunk_13_appendix_b_36,What should an entity do if it introduces a new metric in the reporting period according to the IFRS Sustainability Disclosure Standards?,"If an entity introduces a new metric in the reporting period according to the IFRS Sustainability Disclosure Standards, it should disclose a comparative amount for that metric unless it is impracticable to do so. In cases where it is impracticable to revise a comparative amount to achieve comparability with the reporting period, the entity should provide an explanation for why this is the case. For example, if data was not collected in the preceding period in a way that allows retrospective application of a new definition of a metric, the entity should disclose this limitation.","If an entity introduces a new metric in the reporting period, it shall disclose a
+comparative amount for that metric unless it is impracticable to do so.
+Sometimes, it is impracticable to revise a comparative amount to achieve
+comparability with the reporting period. For example, data might not have...",1,CORRECT
+chunk_13_appendix_b_37,What are some examples of material prior period errors that an entity is required to correct according to paragraph 83 of the document?,"Some examples of material prior period errors that an entity is required to correct according to paragraph 83 of the document include mathematical mistakes, mistakes in applying definitions for metrics or targets, oversights or misinterpretations of facts, and fraud.","recreate the data. If it is impracticable to revise a comparative amount for the
+preceding period, an entity shall disclose that fact.
+Errors
+Paragraph 83 requires an entity to correct material prior period errors.
+Such errors include: the effects of mathematical mistakes, mistakes in
+applying 
+the ...",1,CORRECT
+chunk_13_appendix_b_38,When is it necessary for an entity to restate comparative information to correct an error?,"An entity is necessary to restate comparative information to correct an error when it is impracticable to determine the effect of the error on all prior periods presented. In this case, the entity shall restate the comparative information to correct the error from the earliest date practicable.","the existence of that condition and a description of how and from
+when the error has been corrected.
+When it is impracticable to determine the effect of an error on all prior
+periods presented, the entity shall restate the comparative information to
+correct the error from the earliest date practicab...",1,CORRECT
+chunk_14_appendix_c_01,What sources of guidance can an entity refer to in the absence of an IFRS Sustainability Disclosure Standard that specifically applies to a sustainability-related risk or opportunity?,"In the absence of an IFRS Sustainability Disclosure Standard that specifically applies to a sustainability-related risk or opportunity, an entity can refer to the Global Reporting Initiative Standards and the European Sustainability Reporting Standards as sources of guidance.","Appendix C
+Sources of guidance
+This appendix is an integral part of IFRS S1 and has the same authority as the other parts of the
+Standard.
+This Standard requires (see paragraph 57) that in the absence of an IFRS
+Sustainability Disclosure Standard that specifically applies to a sustainability-
+relate...",1,CORRECT
+chunk_14_appendix_c_02,What happens if an entity applies the sources of guidance specified in paragraph C2 without applying the requirements in IFRS Sustainability Disclosure Standards?,"만약 기업이 C2 항목에 명시된 지침을 적용하면서 IFRS 지속가능성 공시 기준의 요구사항을 적용하지 않는다면, 해당 기업은 IFRS 지속가능성 공시 기준을 준수한다는 명시적이고 예약되지 않은 진술을 하지 않아야 합니다.","not obscure material information required by IFRS Sustainability Disclosure
+Standards (see paragraph B27). If an entity applies the sources of guidance
+specified in paragraph C2 without applying the requirements in IFRS
+Sustainability Disclosure Standards, the entity shall not make an explicit and
+u...",1,CORRECT
+chunk_15_appendix_d_01,What is the purpose of the Conceptual Framework for Financial Reporting issued by the International Accounting Standards Board (IASB)?,"The purpose of the Conceptual Framework for Financial Reporting issued by the International Accounting Standards Board (IASB) is to describe the objective of, and the concepts that apply to, general purpose financial reports. It assists the IASB in developing IFRS Accounting Standards for preparing financial statements based on consistent concepts.","Appendix D
+Qualitative characteristics of useful sustainability-related
+financial information
+This appendix is an integral part of IFRS S1 and has the same authority as the other parts of the
+Standard.
+Introduction
+The Conceptual Framework for Financial Reporting (Conceptual Framework) was
+issued by...",1,CORRECT
+chunk_15_appendix_d_02,What are the fundamental qualitative characteristics of useful sustainability-related financial information?,The fundamental qualitative characteristics of useful sustainability-related financial information are relevance and faithful representation.,"provided in financial statements.
+Sustainability-related financial information is useful if it is relevant and
+faithfully represents what it purports to represent. Relevance and faithful
+representation 
+are 
+fundamental 
+qualitative 
+characteristics 
+of 
+useful
+sustainability-related financial infor...",1,CORRECT
+chunk_15_appendix_d_03,What are the criteria for sustainability-related financial information to have predictive value?,"The criteria for sustainability-related financial information to have predictive value is if it can be used as an input to processes employed by primary users to predict future outcomes. Sustainability-related financial information need not be a prediction or forecast to have predictive value, but it should be employed by primary users in making their own predictions.","take advantage of it or are already aware of it from other sources.
+Sustainability-related financial information is capable of making a difference
+in decisions made by users if it has predictive value, confirmatory value or
+both.
+Sustainability-related financial information has predictive value if i...",1,CORRECT
+chunk_15_appendix_d_04,How does sustainability-related financial information provide confirmatory value and feedback about previous evaluations?,"Sustainability-related financial information provides confirmatory value by confirming or changing previous evaluations. For example, if information for the current year about greenhouse gas emissions is compared with predictions made in past years, the results of those comparisons can help users to correct and improve the processes used to make those previous predictions. This feedback loop allows users to assess the accuracy of their previous evaluations and make adjustments as needed.","can include information about the water being polluted, could inform the
+expectations of users about the ability of an entity to meet local water-quality
+requirements.
+Sustainability-related financial information has confirmatory value if it
+provides feedback about (confirms or changes) previous eva...",1,CORRECT
+chunk_15_appendix_d_05,What is materiality in the context of sustainability-related financial disclosures and how is it assessed?,"Materiality in the context of sustainability-related financial disclosures refers to information that could reasonably be expected to influence decisions made by the primary users of general purpose financial reports. It is assessed based on the nature or magnitude of the item to which the information relates, or both. In other words, materiality is determined by considering whether omitting, misstating, or obscuring the information would impact the decisions made by users of the financial reports.","Materiality
+Information is material if omitting, misstating or obscuring that information
+could reasonably be expected to influence decisions that the primary users of
+general purpose financial reports make on the basis of those reports, which
+provide information about a specific reporting entity. I...",1,CORRECT
+chunk_15_appendix_d_06,What is the objective of general purpose financial reports according to the document?,"The objective of general purpose financial reports is to maximise the qualities of relevance, faithful representation, comparability, and understandability to the extent possible.","accurate. The objective of general purpose financial reports is to maximise
+those qualities to the extent possible.
+A complete depiction of a sustainability-related risk or opportunity includes
+all material information necessary for primary users to understand that risk
+or opportunity.
+Sustainabilit...",1,CORRECT
+chunk_15_appendix_d_07,Why is neutrality important when discussing sustainability-related financial information?,"Neutrality is important when discussing sustainability-related financial information because it ensures that a balanced and unbiased view is presented. By being neutral, both aspirations and potential obstacles to achieving those aspirations are considered, leading to a more accurate and comprehensive understanding of the situation. This helps to prevent opportunities from being overstated and risks from being understated, ultimately leading to more informed decision-making and a clearer picture of the entity's sustainability efforts.","Some sustainability-related financial information—for example, targets or
+plans—is aspirational. A neutral discussion of such matters covers both
+aspirations and the factors that could prevent an entity from achieving these
+aspirations.
+Neutrality is supported by the exercise of prudence. Prudence i...",1,CORRECT
+chunk_15_appendix_d_08,What are some of the key characteristics that enhance the usefulness of sustainability-related financial information according to the document?,"According to the document, some key characteristics that enhance the usefulness of sustainability-related financial information include comparability, verifiability, timeliness, and understandability.","(a)
+factual information is free from material error;
+(b)
+descriptions are precise;
+(c)
+estimates, approximations and forecasts are clearly identified as such;
+(d)
+no material errors are made in selecting and applying an appropriate
+process for developing an estimate, approximation or forecast;
+(e)
+a...",1,CORRECT
+chunk_15_appendix_d_09,Why is comparability considered an important characteristic in financial reporting?,"Comparability is considered an important characteristic in financial reporting because it enables users to identify and understand similarities and differences among items. This allows users to make informed decisions when comparing information provided by the entity in previous periods, as well as information provided by other entities with similar activities or operating within the same industry. By ensuring comparability, financial reporting becomes more useful and relevant to users for making investment decisions.","investment, or investing in one reporting entity or another. Comparability is
+the characteristic that enables users to identify and understand similarities in,
+and differences among, items. Unlike the other qualitative characteristics,
+comparability does not relate to a single item. A comparison req...",1,CORRECT
+chunk_15_appendix_d_10,How does consistency differ from comparability in terms of sustainability-related financial disclosures?,"Consistency in sustainability-related financial disclosures refers to using the same approaches or methods for providing information about the same sustainability-related risks and opportunities from period to period, both within a reporting entity and across different entities. On the other hand, comparability in sustainability-related financial disclosures is the goal of making like things look alike and different things look different, in order to enhance the ability of users to compare information across entities. While consistency helps to achieve comparability, they are not the same thing. Comparability focuses on ensuring that information can be easily compared, while consistency is about using the same methods or approaches over time.","Sustainability-related financial disclosures shall be provided in a way that
+enhances comparability.
+Consistency is related to, but is not the same as, comparability. Consistency
+refers to the use of the same approaches or methods for providing disclosures
+about the same sustainability-related risks...",1,CORRECT
+chunk_15_appendix_d_11,How can sustainability-related financial information be provided in a way that enhances its verifiability according to the document?,"Sustainability-related financial information can be provided in a way that enhances its verifiability by including information that can be corroborated by comparing it with other information available to primary users about an entity's business, about other businesses, or about the external environment in which the entity operates. Additionally, providing information about inputs and methods of calculation used to derive the information can also enhance its verifiability.","either the information itself or the inputs used to derive it. Verifiable
+information is more useful to primary users than information that is not
+verifiable.
+Verifiability means that various knowledgeable and independent observers
+could reach consensus, although not necessarily complete agreement, ...",1,CORRECT
+chunk_15_appendix_d_12,What factors should an entity describe in order to provide evidence that sustainability-related financial information reflects the actual plans or decisions made by the entity?,"An entity should describe the underlying assumptions and methods of producing the information, as well as other factors that provide evidence that the information reflects the actual plans or decisions made by the entity. This may include strategies, plans, and risk analyses that are fact-based and supportable.","produce estimates or approximations; and
+(c)
+providing information reviewed and agreed by the entity’s board,
+board committees or equivalent bodies.
+Some sustainability-related financial information will be presented as
+explanations or forward-looking information. That information can be
+supportable...",1,CORRECT
+chunk_15_appendix_d_13,What are some key factors that contribute to the understandability of sustainability-related financial information according to the document?,"According to the document, some key factors that contribute to the understandability of sustainability-related financial information include avoiding generic information, avoiding duplication of information in general purpose financial reports, and using clear language and clearly structured sentences and paragraphs.","Timeliness
+Timeliness means having information available to decision-makers in time to
+be capable of influencing their decisions. Generally, the older information is,
+the less useful it is. However, some information may continue to be timely
+long after the end of a reporting period because, for exam...",1,CORRECT
+chunk_15_appendix_d_14,How should an entity present complex sustainability-related risks and opportunities in their reporting?,"An entity should present complex sustainability-related risks and opportunities as clearly as possible in their reporting. This might include using tables, graphs, or diagrams in addition to narrative text to enhance clarity. Additionally, distinguishing information about developments in the reporting period from 'standing' information that remains unchanged can help improve understanding. It is important to ensure that any immaterial information is not included in a way that obscures material information.","information and might include tables, graphs or diagrams in addition to
+narrative text. If graphs or diagrams are used, additional text or tables might
+be necessary to avoid obscuring material detail.
+Clarity might be enhanced by distinguishing information about developments
+in the reporting period ...",1,CORRECT
+chunk_15_appendix_d_15,Why is it important for sustainability-related financial information to be presented in a coherent manner?,"It is important for sustainability-related financial information to be presented in a coherent manner because the completeness, clarity, and comparability of the information rely on it being presented as a coherent whole. This ensures that the information explains the context and connections between related items, making it easier for stakeholders to understand and analyze the information accurately. Excluding such information or presenting it in a fragmented manner could render financial reports incomplete and potentially misleading. Therefore, presenting sustainability-related financial information coherently is essential for transparency and accuracy in reporting.","information about these risks and opportunities shall not be excluded from
+general purpose financial reports to make those reports easier to understand.
+Excluding such information would render those reports incomplete and,
+therefore, possibly misleading.
+The completeness, clarity and comparability o...",1,CORRECT
+chunk_15_appendix_d_16,What information must an entity include in its general purpose financial reports if sustainability-related risks and opportunities in one part of the report have implications for information disclosed in other parts?,An entity must include the information necessary for users to assess the implications of sustainability-related risks and opportunities located in one part of the general purpose financial reports on information disclosed in other parts. This includes providing information in a way that allows users to relate information about sustainability-related risks and opportunities to information in the entity's financial statements.,"If sustainability-related risks and opportunities located in one part of an
+entity’s general purpose financial reports have implications for information
+disclosed in other parts, the entity shall include the information necessary for
+users to assess those implications.
+Coherence also requires an ent...",1,CORRECT
+chunk_16_appendix_e_01,When should an entity apply IFRS S1 for annual reporting periods?,An entity should apply IFRS S1 for annual reporting periods beginning on or after 1 January 2024.,"Appendix E
+Effective date and transition
+This appendix is an integral part of IFRS S1 and has the same authority as the other parts of the
+Standard.
+Effective date
+An entity shall apply this Standard for annual reporting periods beginning on
+or after 1 January 2024. Earlier application is permitted....",1,CORRECT
+chunk_16_appendix_e_02,When is an entity permitted to report its sustainability-related financial disclosures according to the transition relief outlined in the document?,"An entity is permitted to report its sustainability-related financial disclosures according to the transition relief outlined in the document after it publishes its related financial statements. The entity shall report its sustainability-related financial disclosures at the same time as its next second-quarter or half-year interim general purpose financial report, if required to provide such a report. If the entity voluntarily provides an interim report, it shall report its sustainability-related financial disclosures at the same time as its next second-quarter or half-year interim general purpose financial report, but within nine months of the end of the annual reporting period in which the entity first applies the Standard. If the entity is not required to and does not voluntarily provide an interim general purpose financial report, it shall report its sustainability-related financial disclosures within nine months of the end of the annual reporting period in which the entity first applies the Standard.","the entity is permitted to report its sustainability-related financial disclosures
+after it publishes its related financial statements. In applying this transition
+relief, an entity shall report its sustainability-related financial disclosures:
+(a)
+at the same time as its next second-quarter or half...",1,CORRECT
+chunk_16_appendix_e_03,What specific information is the entity permitted to disclose under the transition relief in accordance with IFRS S2?,The entity is permitted to disclose information on only climate-related risks and opportunities under the transition relief in accordance with IFRS S2.,"the entity is permitted to disclose information on only climate-related risks
+and opportunities (in accordance with IFRS S2) and consequently apply the
+requirements in this Standard only insofar as they relate to the disclosure of
+information on climate-related risks and opportunities. If an entity ...",1,CORRECT
+chunk_16_appendix_e_04,What information is not required to be disclosed in the first annual reporting period when applying the Standard?,Comparative information about its climate-related risks and opportunities is not required to be disclosed in the first annual reporting period when applying the Standard.,"(a)
+in the first annual reporting period in which the entity applies this
+Standard, it is not required to disclose comparative information about
+its climate-related risks and opportunities (see paragraph E3); and
+(b)
+in the second annual reporting period in which the entity applies this
+Standard, it...",1,CORRECT
+chunk_17_approval_01,Who are the three Vice-Chairs of the International Sustainability Standards Board as of June 2023?,"The three Vice-Chairs of the International Sustainability Standards Board as of June 2023 are Jingdong Hua, Suzanne Lloyd, and Richard Barker.","Disclosure of Sustainability-related Financial Information issued
+in June 2023
+IFRS S1 General Requirements for the Disclosure of Sustainability-related Financial Information was
+approved for issue by all 14 members of the International Sustainability Standards Board.
+Emmanuel Faber
+Chair
+Jingdong H...",1,CORRECT
